@@ -94,7 +94,7 @@ def generate_markdown_report(all_news):
     
     # --- 🔥 生成重點摘要 (自家新聞優先排序) ---
     content += "## 🔥 本日焦點 (Top Highlights)\n"
-    content += "> 快速瀏覽產業頭條 (元鈦科技優先)：\n\n"
+    content += "> 快速瀏覽產業頭條 ：\n\n"
     
     priority_highlights = [] # 用來存 MGCooling 相關新聞
     general_highlights = []  # 用來存其他新聞
