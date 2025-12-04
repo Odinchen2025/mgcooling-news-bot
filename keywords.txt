@@ -1,6 +1,5 @@
 液冷
 Liquid Cooling
-DLC
 CDU
 冷卻板
 Cold Plate
