@@ -51,15 +51,19 @@ def parse_news(xml_content):
     news_items = []
     try:
         root = ET.fromstring(xml_content)
-        # RSS 的結構通常是 channel -> item
-        # 每個關鍵字只抓前 5 篇最新的
+        # 每個關鍵字只抓前 5 篇
         for item in root.findall('./channel/item')[:5]: 
             title = item.find('title').text
             link = item.find('link').text
             pub_date = item.find('pubDate').text
             
-            # 簡單清理標題 (去除媒體名稱，通常格式為 Title - Source)
+            # --- 🛠️ 標題清洗區 ---
+            # 1. 去除標題後面的媒體名稱 (例如 " - 數位時代")
             clean_title = title.split(' - ')[0]
+            # 2. 【關鍵修正】把半形 '|' 換成全形 '｜'，避免 GitHub 把標題誤判成表格
+            clean_title = clean_title.replace('|', '｜')
+            # 3. 去除可能導致換行的符號
+            clean_title = clean_title.replace('\n', ' ')
             
             news_items.append({
                 'title': clean_title,
@@ -82,9 +86,9 @@ def generate_markdown_report(all_news):
     content = f"# 🧊 MGCooling AI 水冷每日情報 - {today}\n\n"
     content += "本報告由 GitHub Actions 自動生成，彙整網路上最新的產業動態。\n\n"
     
-    # --- 🔥 新增功能：生成重點摘要 (Top Highlights) ---
+    # --- 🔥 重點摘要區塊 (Top Highlights) ---
     content += "## 🔥 本日焦點 (Top Highlights)\n"
-    content += "> 從各個關鍵字中精選出的頭條新聞：\n\n"
+    content += "> 快速瀏覽各關鍵字的頭條新聞：\n\n"
     
     has_highlights = False
     highlight_count = 0
@@ -103,7 +107,7 @@ def generate_markdown_report(all_news):
     
     content += "\n---\n\n"
     
-    # --- 📋 生成詳細清單 ---
+    # --- 📋 詳細清單區塊 ---
     content += "## 📋 詳細新聞列表\n"
     
     if not all_news:
@@ -115,8 +119,6 @@ def generate_markdown_report(all_news):
             content += "* 尚無最新相關新聞。\n"
         for item in items:
             content += f"- [{item['title']}]({item['link']})\n"
-            # 若不想顯示日期可註解掉下面這行
-            # content += f"  - <small>{item['pub_date']}</small>\n"
         content += "\n"
         
     content += "---\n"
