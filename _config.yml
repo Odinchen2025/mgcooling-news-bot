@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: MGCooling AI 水冷每日情報
+description: 由 GitHub Actions 自動搜集的每日產業動態
+show_downloads: false
+google_analytics:
