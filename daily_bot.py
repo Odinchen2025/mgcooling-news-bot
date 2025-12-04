@@ -90,7 +90,7 @@ def generate_markdown_report(all_news):
     repo_actions_url = "https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml"
     content += f"[![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)]({repo_actions_url})\n\n"
     
-    content += "本報告由 GitHub Actions 自動生成，彙整網路上最新的產業動態。\n\n"
+    # 已移除原本的「本報告由 GitHub Actions 自動生成...」這行字
     
     # --- 🔥 新增功能：生成重點摘要 (Top Highlights) ---
     content += "## 🔥 本日焦點 (Top Highlights)\n"
