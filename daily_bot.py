@@ -58,7 +58,6 @@ def parse_news(xml_content):
                 # 使用 email.utils 解析 RFC 822 格式
                 dt_obj = parsedate_to_datetime(pub_date_raw)
                 # 轉成 M/D/YY 字串 (例如 4/26/25)
-                # 使用 dt_obj.month 和 dt_obj.day 確保不補零，strftime('%y') 確保年份為兩碼
                 pub_date = f"{dt_obj.month}/{dt_obj.day}/{dt_obj.strftime('%y')}"
             except Exception as e:
                 # 如果解析失敗，維持原樣
@@ -85,14 +84,22 @@ def generate_markdown_report(all_news):
     """ 將所有新聞彙整成 Markdown 格式的報告 """
     tw_tz = timezone(timedelta(hours=8))
     
-    # 修改：報告標題日期格式改為 M/D/YY (例如 12/4/25)
+    # 取得現在時間
     now = datetime.now(tw_tz)
+    # 標題日期格式 M/D/YY
     today = f"{now.month}/{now.day}/{now.strftime('%y')}"
+    # 詳細更新時間 YYYY/MM/DD HH:MM
+    update_time_str = now.strftime('%Y/%m/%d %H:%M')
     
     content = f"# 🧊 MGCooling AI 水冷每日情報 - {today}\n\n"
     
     repo_actions_url = "https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml"
-    content += f"[![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)]({repo_actions_url})\n\n"
+    
+    # 更新按鈕
+    content += f"[![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)]({repo_actions_url})\n"
+    
+    # --- 🕒 新增：淡淡灰白色更新時間 (靠右對齊) ---
+    content += f"<p align='right' style='color: #bfbfbf; font-size: 13px; margin-top: -20px;'>更新時間：{update_time_str}</p>\n\n"
     
     # --- 🔥 生成重點摘要 ---
     content += "## 🔥 本日焦點 (Top Highlights)\n"
