@@ -1,0 +1,8 @@
+液冷, Liquid Cooling, DLC, CDU, 冷卻板, Cold Plate, 浸沒式冷卻, Immersion Cooling,
+伺服器散熱, Thermal Module, 散熱模組, Dielectric Fluid, Leak Detection,
+Data Center, 資料中心, PUE, Hyperscale Cloud, AWS, Google Cloud, Meta, Azure,
+Wistron 緯創, Wiwynn 緯穎, Supermicro 翔名, Quanta 廣達, ASUS, GIGABYTE,
+NVIDIA H100, H200, B100, GB200, Blackwell, AMD MI300, Intel Gaudi3,
+HBM, CoWoS, Chiplet, 先進封裝散熱,
+AI伺服器, High Density Cooling, HPC, AI Cluster,
+工業用電, 冷卻水系統, HVAC, RE100
