@@ -4,6 +4,7 @@ from datetime import datetime, timezone, timedelta
 import os
 import json
 import re
+from email.utils import parsedate_to_datetime
 
 def load_keywords():
     """ 讀取 keywords.txt """
@@ -50,7 +51,18 @@ def parse_news(xml_content):
         for item in root.findall('./channel/item')[:5]: 
             title = item.find('title').text
             link = item.find('link').text
-            pub_date = item.find('pubDate').text
+            pub_date_raw = item.find('pubDate').text
+            
+            # --- 🛠️ 日期格式化 (M/D/YY) ---
+            try:
+                # 使用 email.utils 解析 RFC 822 格式
+                dt_obj = parsedate_to_datetime(pub_date_raw)
+                # 轉成 M/D/YY 字串 (例如 4/26/25)
+                # 使用 dt_obj.month 和 dt_obj.day 確保不補零，strftime('%y') 確保年份為兩碼
+                pub_date = f"{dt_obj.month}/{dt_obj.day}/{dt_obj.strftime('%y')}"
+            except Exception as e:
+                # 如果解析失敗，維持原樣
+                pub_date = pub_date_raw
             
             description_node = item.find('description')
             raw_desc = description_node.text if description_node is not None else ""
@@ -72,17 +84,18 @@ def parse_news(xml_content):
 def generate_markdown_report(all_news):
     """ 將所有新聞彙整成 Markdown 格式的報告 """
     tw_tz = timezone(timedelta(hours=8))
-    today = datetime.now(tw_tz).strftime("%Y-%m-%d")
+    
+    # 修改：報告標題日期格式改為 M/D/YY (例如 12/4/25)
+    now = datetime.now(tw_tz)
+    today = f"{now.month}/{now.day}/{now.strftime('%y')}"
     
     content = f"# 🧊 MGCooling AI 水冷每日情報 - {today}\n\n"
     
-    # 手動更新按鈕
     repo_actions_url = "https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml"
     content += f"[![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)]({repo_actions_url})\n\n"
     
     # --- 🔥 生成重點摘要 ---
     content += "## 🔥 本日焦點 (Top Highlights)\n"
-    # 修改 1: 移除 (元鈦科技優先) 字樣，只保留標題
     content += "> 快速瀏覽產業頭條：\n\n"
     
     priority_highlights = []
@@ -125,7 +138,7 @@ def generate_markdown_report(all_news):
         
         # 只顯示前 3 則
         for item in items[:3]:
-            # 修改 2: 時間移到標題前面，使用灰色小字 (small style='color:gray')
+            # 日期在標題最前面，淺灰色，格式 M/D/YY
             content += f"- <small style='color:gray;'>{item['pub_date']}</small> [{item['title']}]({item['link']})\n"
         content += "\n"
     
@@ -151,7 +164,7 @@ def main():
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(report_content)
         
-    # 3. 輸出 JSON 資料 (為了之後的網頁版準備)
+    # 3. 輸出 JSON 資料
     print("💾 正在輸出 JSON 資料...")
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_news_data, f, ensure_ascii=False, indent=4)
