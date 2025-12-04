@@ -82,7 +82,7 @@ def generate_markdown_report(all_news):
     
     # --- 🔥 生成重點摘要 ---
     content += "## 🔥 本日焦點 (Top Highlights)\n"
-    # 修改 1: 移除 (元鈦科技優先) 字樣
+    # 修改 1: 移除 (元鈦科技優先) 字樣，只保留標題
     content += "> 快速瀏覽產業頭條：\n\n"
     
     priority_highlights = []
@@ -123,9 +123,9 @@ def generate_markdown_report(all_news):
         if not items:
             content += "* 尚無最新相關新聞。\n"
         
-        # 只顯示前 3 則 (Google News RSS 預設通常已是最新在最前，直接切片即可)
+        # 只顯示前 3 則
         for item in items[:3]:
-            # 修改 2: 時間移到標題前面，灰色字樣
+            # 修改 2: 時間移到標題前面，使用灰色小字 (small style='color:gray')
             content += f"- <small style='color:gray;'>{item['pub_date']}</small> [{item['title']}]({item['link']})\n"
         content += "\n"
     
@@ -151,7 +151,7 @@ def main():
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(report_content)
         
-    # 3. 輸出 JSON 資料
+    # 3. 輸出 JSON 資料 (為了之後的網頁版準備)
     print("💾 正在輸出 JSON 資料...")
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_news_data, f, ensure_ascii=False, indent=4)
