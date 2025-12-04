@@ -84,6 +84,13 @@ def generate_markdown_report(all_news):
     today = datetime.now(tw_tz).strftime("%Y-%m-%d")
     
     content = f"# 🧊 MGCooling AI 水冷每日情報 - {today}\n\n"
+    
+    # --- 🔘 新增：手動更新按鈕 ---
+    # 這個連結會帶使用者到 GitHub Actions 的執行頁面
+    # 為了方便，這裡直接填入你的專案路徑
+    repo_actions_url = "https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml"
+    content += f"[![手動更新](https://img.shields.io/badge/按此手動更新-Run%20Update-2ea44f?style=for-the-badge&logo=github)]({repo_actions_url})\n\n"
+    
     content += "本報告由 GitHub Actions 自動生成，彙整網路上最新的產業動態。\n\n"
     
     # --- 🔥 重點摘要區塊 (Top Highlights) ---
