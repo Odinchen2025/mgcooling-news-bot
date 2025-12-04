@@ -1,13 +1,14 @@
 # 🧊 MGCooling AI 水冷每日情報 - 12/4/25
 
 [![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)](https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml)
+<p align='right' style='color: #bfbfbf; font-size: 13px; margin-top: -20px;'>更新時間：2025/12/04 16:00</p>
 
 ## 🔥 本日焦點 (Top Highlights)
 > 快速瀏覽產業頭條：
 
 1. **[MGCooling]** [瑞昱攜手文偉、元鈦科技「贏」向ESG挑戰創新之路｜ 企業消息](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdm9OLWhLX0lTYUpGMEUwQ1dBaEdUSHB4TjQ4OXNzMnFNakp6WHc3Y1BjUXBmeGRDcTBRRWJJWWRxa1Nvd2xsY0lCRzJzN3ZVZ2NWQTNuYkExbkxPNUhDdVIwZGwtWmdRRFZFWElLVkVoeVZaTzNOZWpzR3NzbDlkNjBtaXNmSlRRbEpYN3JEQk12ZWh0UHFZNHdEYnV1bWloQUJnWmhJYXBjbWZCV2QwNnpn?oc=5) <small>(12/18/23)</small>
-1. **[元鈦科技]** [GB200卡關瓶頸主角換人 散熱元件台廠新機會](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU1iR0o5Vm80NzRqMWNUZDM0dTFLVmxzM2pTcFNEdUNRZjlJbUMzT3pOd1J4R255ZWhRN3AxVDM2LUdHTHo0VUloZ2w5cWhrZGwwNk1ROExreG1ZaEVSTjVGaHBucXljaGRFMGFnMllOb0tLR1U0QUs3VEV5SVgtLU81M3RnMHdJT25vNGpR?oc=5) <small>(12/19/24)</small>
-1. **[液冷]** [EPS上看48元！「這檔散熱股」明年液冷營收衝55% 本益比18倍被嫌超跌？AI大爆發推著一路衝](https://news.google.com/rss/articles/CBMivwNBVV95cUxPa282cWRnSldvMUFPRTcxN0xfUC10OVhhNzNkOUo3b1loZHk3eDB0WkQ0c1lsWV9yZERDS1JYQUwzM19DX09IYXBaMGN3b1BWOXZzdkI0ZE9xN2NQMFd2NUI4Sm5yTFktMFFDc1Npem1EQWI5NFR1RWpUcGVaQ2tYRjdwQ28xTlRpX3Fhd1lRMEtDRXh1WC1aUWFtSXBYRXpYaDFEYkUtZllhWnFjTFpjNWd1ZVJrblRiLTlnS2VCNUl3eTlTSDZjMXR4dm53UmplSm92VldiWkY4RHBVVnd2aTR3dVhJN3BmT0ttLWRibVZyOE5WNjFQckp1QnNmajRhV3REaTJxYk9HbnhkWW1SZk9oN0pKdEJrWVNGVlFrWnVJOU90SkVDblhSUU82c19obkdfeUVPajFrQ3F3eTVXb0NxbEdORjJLTTNWQXRZcUhjanhsNm1EMlBaeVNqMERObE1CY1gtUnVBSW1XbTZBdlA2VE01THpfc24yYmtBV25QRWdIOUlWZlptS0dUZ1NVWkpEYk45aXctMVlVOGpfREVWQUtDTEhBX2ZKbE03TmczZVplbEdTcGtIdHhoYU0?oc=5) <small>(11/30/25)</small>
+1. **[元鈦科技]** [AI資料中心投資熱 台達電：營收占比望衝2成 ｜ 科技](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UMUluMVF4VzExZEgyU1J0QzYxQVdMd0MtRFlZUG1zVE5wVnVrcXBGaVV6dVBLb2NIYzVoSHFuSHctdW0xYWxEVWdfSjNJZEZYUm1iYjhHSU5rOHFk?oc=5) <small>(5/21/25)</small>
+1. **[液冷]** [EPS估28元明年拚48元，這檔散熱股明年液冷營收占比55%，投信賣壓減緩，本益比18倍超跌了嗎？](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYT25yMC1yaTJVRlVaQUNTVmJKcTg4MjR6dDJmbzVIU1d5eHdZNWlYaWtlOUxXNWJYU0pIQzZrbUc1d2p3NU9lSU5ndXYtSEFCVy1LTTQ3dTFuZ9IBX0FVX3lxTE9telhJWnVENVNQRnU1M0VXNEh0OWgxcktiYzlMeERLU282SjZIVDI2QlplSHlFSkw5MWw5Q3Rkd1hNY2I1SWhUZF9HZ2dGN1NRZkxrMzU5VXh0Y0FfQ2N3?oc=5) <small>(12/4/25)</small>
 1. **[Liquid Cooling]** [Getworks Drives Forward the Cutting-Edge Liquid Cooling Data Center with the Supermicro Liquid-Cooling Tower](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVlVSeVp6QWNPS015N1pMTk43STZ4QTVNMDIydlVwdGRRcTdpelpnZThHbG82dDRuQ0xlU3d4ZHRKS1dTeXF2bzJpa2paclhndzBnUV9GdDV4MDdQX290Yl9OWmZvdw?oc=5) <small>(7/25/25)</small>
 1. **[CDU]** [新CDU下季試產，泰碩期明年重回成長- 新聞](https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVBPdHFwV2RPRHhMcW1Ld2lmQXpZZlBFUUtkTy1TS05fd0pfM21NU3YtZzJydWIzeTloUUpXY3FYSmFiSXdfd2l0SzRDN19JaXBHd3UtcXQtbmd0V0IxWVZhWGs3QXRoY2s2TWdLWE1KNGdjZzB3ZVZzWFZENnJ4bEdIM2ZLQkFkckU1NW1PUnF3QQ?oc=5) <small>(12/4/25)</small>
 1. **[冷卻板]** [傳輝達AI機櫃液冷報價驚人、次代更貴 Vertiv嗨](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmszSFNqYmtTNjJIY0JyUHNpX2dNYkg1UmREUzd6M0ZFNW1wMlNMTGNxUDhsRGswN3ZRZzk5MVVRdm5LZEVkaEpLVGZlLS1PRTUyRkZ4cWluNFRkT1VfWnZyLUIyamtlTG1ZN044bk1rYmNnYVFQaWYyZWRtMjVtOEMwSVpJSm5lSW02eEJzdjRPdw?oc=5) <small>(11/6/25)</small>
@@ -20,13 +21,13 @@
 - <small style='color:gray;'>12/18/23</small> [瑞昱攜手文偉、元鈦科技「贏」向ESG挑戰創新之路｜ 企業消息](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdm9OLWhLX0lTYUpGMEUwQ1dBaEdUSHB4TjQ4OXNzMnFNakp6WHc3Y1BjUXBmeGRDcTBRRWJJWWRxa1Nvd2xsY0lCRzJzN3ZVZ2NWQTNuYkExbkxPNUhDdVIwZGwtWmdRRFZFWElLVkVoeVZaTzNOZWpzR3NzbDlkNjBtaXNmSlRRbEpYN3JEQk12ZWh0UHFZNHdEYnV1bWloQUJnWmhJYXBjbWZCV2QwNnpn?oc=5)
 
 ### 🔍 元鈦科技
-- <small style='color:gray;'>12/19/24</small> [GB200卡關瓶頸主角換人 散熱元件台廠新機會](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU1iR0o5Vm80NzRqMWNUZDM0dTFLVmxzM2pTcFNEdUNRZjlJbUMzT3pOd1J4R255ZWhRN3AxVDM2LUdHTHo0VUloZ2w5cWhrZGwwNk1ROExreG1ZaEVSTjVGaHBucXljaGRFMGFnMllOb0tLR1U0QUs3VEV5SVgtLU81M3RnMHdJT25vNGpR?oc=5)
-- <small style='color:gray;'>6/27/24</small> [緯創砸4.9億元入主元鈦科技25％股份！水冷散熱是什麼？為何AI資料中心必備？](https://news.google.com/rss/articles/CBMiaEFVX3lxTE93T0pWdWx6cWd5blhzZUZrdVNnNDhnbVRsc2ludVlETFE2b1ozRlRqdGtJR0xWbjJhRUhncXQ5Tk05WVBKY2t2eGhQRUl3SS1YWlF6cXFFdGtlaEQ0WlBIZDlhaG12NldM?oc=5)
+- <small style='color:gray;'>5/21/25</small> [AI資料中心投資熱 台達電：營收占比望衝2成 ｜ 科技](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UMUluMVF4VzExZEgyU1J0QzYxQVdMd0MtRFlZUG1zVE5wVnVrcXBGaVV6dVBLb2NIYzVoSHFuSHctdW0xYWxEVWdfSjNJZEZYUm1iYjhHSU5rOHFk?oc=5)
 - <small style='color:gray;'>6/26/24</small> [緯創重訊花4.9億元入主水冷散熱廠元鈦 取得25%持股](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNMUpYUV9sN1dMU0w0Rm9Oci1ZWnBZWFRkRTNFamlnMk9fb2pQQTIzY0E0M1VqUUZjTGM2R3ptdVZveXRNTFRuampQX0VNdTF4d0FENmVzRmdPQWVlRUJoRG4xcDVjcEZkYUFHMFcxUXp3aXJuT2ZnTERfeEszRXotanFueXhUZEh4WElkLVNaUEVTYm5sYUR0LXNjcU05YVVXZk1sV21lZG5jMF9VZVhyNl9XLWdxejVQaUExOGlnenhYcjRTSXlsRHdVZUFuSnNja3k2OGRDR3ExVld3UzhsdGkyU1hwaS1VZm91VllCTGJOSkYwOVFHWW41MkI1VkJKZzJsYlRsd05PNHBtOE1QMnVQZ19XRmx3RncyNGJpQnpWWGxuYUlKTUNGM01JeVVLaG1DLUdQZE51c0tzVFItSDdpZUZ2QzRxQkF3XzJtTDlZZw?oc=5)
+- <small style='color:gray;'>12/19/24</small> [GB200卡關瓶頸主角換人 散熱元件台廠新機會](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeU1iR0o5Vm80NzRqMWNUZDM0dTFLVmxzM2pTcFNEdUNRZjlJbUMzT3pOd1J4R255ZWhRN3AxVDM2LUdHTHo0VUloZ2w5cWhrZGwwNk1ROExreG1ZaEVSTjVGaHBucXljaGRFMGFnMllOb0tLR1U0QUs3VEV5SVgtLU81M3RnMHdJT25vNGpR?oc=5)
 
 ### 🔍 液冷
+- <small style='color:gray;'>12/4/25</small> [EPS估28元明年拚48元，這檔散熱股明年液冷營收占比55%，投信賣壓減緩，本益比18倍超跌了嗎？](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYT25yMC1yaTJVRlVaQUNTVmJKcTg4MjR6dDJmbzVIU1d5eHdZNWlYaWtlOUxXNWJYU0pIQzZrbUc1d2p3NU9lSU5ndXYtSEFCVy1LTTQ3dTFuZ9IBX0FVX3lxTE9telhJWnVENVNQRnU1M0VXNEh0OWgxcktiYzlMeERLU282SjZIVDI2QlplSHlFSkw5MWw5Q3Rkd1hNY2I1SWhUZF9HZ2dGN1NRZkxrMzU5VXh0Y0FfQ2N3?oc=5)
 - <small style='color:gray;'>11/30/25</small> [EPS上看48元！「這檔散熱股」明年液冷營收衝55% 本益比18倍被嫌超跌？AI大爆發推著一路衝](https://news.google.com/rss/articles/CBMivwNBVV95cUxPa282cWRnSldvMUFPRTcxN0xfUC10OVhhNzNkOUo3b1loZHk3eDB0WkQ0c1lsWV9yZERDS1JYQUwzM19DX09IYXBaMGN3b1BWOXZzdkI0ZE9xN2NQMFd2NUI4Sm5yTFktMFFDc1Npem1EQWI5NFR1RWpUcGVaQ2tYRjdwQ28xTlRpX3Fhd1lRMEtDRXh1WC1aUWFtSXBYRXpYaDFEYkUtZllhWnFjTFpjNWd1ZVJrblRiLTlnS2VCNUl3eTlTSDZjMXR4dm53UmplSm92VldiWkY4RHBVVnd2aTR3dVhJN3BmT0ttLWRibVZyOE5WNjFQckp1QnNmajRhV3REaTJxYk9HbnhkWW1SZk9oN0pKdEJrWVNGVlFrWnVJOU90SkVDblhSUU82c19obkdfeUVPajFrQ3F3eTVXb0NxbEdORjJLTTNWQXRZcUhjanhsNm1EMlBaeVNqMERObE1CY1gtUnVBSW1XbTZBdlA2VE01THpfc24yYmtBV25QRWdIOUlWZlptS0dUZ1NVWkpEYk45aXctMVlVOGpfREVWQUtDTEhBX2ZKbE03TmczZVplbEdTcGtIdHhoYU0?oc=5)
-- <small style='color:gray;'>11/29/25</small> [EPS估28元明年拚48元，這檔散熱股明年液冷營收占比55%，投信賣壓減緩，本益比18倍超跌了嗎？](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYT25yMC1yaTJVRlVaQUNTVmJKcTg4MjR6dDJmbzVIU1d5eHdZNWlYaWtlOUxXNWJYU0pIQzZrbUc1d2p3NU9lSU5ndXYtSEFCVy1LTTQ3dTFuZ9IBX0FVX3lxTE9telhJWnVENVNQRnU1M0VXNEh0OWgxcktiYzlMeERLU282SjZIVDI2QlplSHlFSkw5MWw5Q3Rkd1hNY2I1SWhUZF9HZ2dGN1NRZkxrMzU5VXh0Y0FfQ2N3?oc=5)
 - <small style='color:gray;'>12/1/25</small> [CME 當機助攻 AI 散熱題材，5 大散熱概念股一次看](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuZW9fOE1rMW1YLXZfS0Y3ZkhXUzBnMjM5ZDhlR2lPekZyeFhQeU1VNHRGcVIxMkgxY1ByX21MMUZfWmtGNTNXQ0l0djE4N2JHSGRWbFBVTy13VVJUREFNOElGRQ?oc=5)
 
 ### 🔍 Liquid Cooling
@@ -110,4 +111,4 @@
 - <small style='color:gray;'>7/18/25</small> [導入輝達GB200平臺，AWS最高階Blackwell GPU運算雲上場](https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dUFZMGZTLVM0U2ZvUHFxOU0xcWtiNGZYUE5uejF6Q2RWbk12SDUzZTFiaVdtcEpwLXB6UU4zcmYyR2hEV29SbW5WUTV0Qk1P?oc=5)
 
 ---
-*Report generated at 2025-12-04 15:56:47 (Taipei Time)*
+*Report generated at 2025-12-04 16:00:31 (Taipei Time)*
