@@ -77,7 +77,7 @@ def parse_news(xml_content):
 
 def generate_markdown_report(all_news):
     """
-    將所有新聞彙整成 Markdown 格式的報告，包含重點摘要
+    將所有新聞彙整成 Markdown 格式的報告，包含重點摘要與按鈕
     """
     # 設定台灣時間 (UTC+8)
     tw_tz = timezone(timedelta(hours=8))
@@ -85,15 +85,14 @@ def generate_markdown_report(all_news):
     
     content = f"# 🧊 MGCooling AI 水冷每日情報 - {today}\n\n"
     
-    # --- 🔘 新增：手動更新按鈕 ---
-    # 這個連結會帶使用者到 GitHub Actions 的執行頁面
-    # 為了方便，這裡直接填入你的專案路徑
+    # --- 🔘 新增：手動更新按鈕 (直接導向 Actions 頁面) ---
+    # 請將 odinchen2025 替換為您的帳號名稱，如果這不是您的帳號，請修改下方網址
     repo_actions_url = "https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml"
-    content += f"[![手動更新](https://img.shields.io/badge/按此手動更新-Run%20Update-2ea44f?style=for-the-badge&logo=github)]({repo_actions_url})\n\n"
+    content += f"[![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)]({repo_actions_url})\n\n"
     
     content += "本報告由 GitHub Actions 自動生成，彙整網路上最新的產業動態。\n\n"
     
-    # --- 🔥 重點摘要區塊 (Top Highlights) ---
+    # --- 🔥 新增功能：生成重點摘要 (Top Highlights) ---
     content += "## 🔥 本日焦點 (Top Highlights)\n"
     content += "> 快速瀏覽各關鍵字的頭條新聞：\n\n"
     
@@ -114,7 +113,7 @@ def generate_markdown_report(all_news):
     
     content += "\n---\n\n"
     
-    # --- 📋 詳細清單區塊 ---
+    # --- 📋 生成詳細清單 ---
     content += "## 📋 詳細新聞列表\n"
     
     if not all_news:
@@ -126,6 +125,8 @@ def generate_markdown_report(all_news):
             content += "* 尚無最新相關新聞。\n"
         for item in items:
             content += f"- [{item['title']}]({item['link']})\n"
+            # 若不想顯示日期可註解掉下面這行
+            # content += f"  - <small>{item['pub_date']}</small>\n"
         content += "\n"
         
     content += "---\n"
