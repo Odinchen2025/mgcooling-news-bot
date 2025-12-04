@@ -3,25 +3,95 @@
 
 @import "{{ site.theme }}";
 
+/* =========================================
+   全域設定 (桌面與手機共用)
+   ========================================= */
+
 /* 針對標題 (project-name) */
 .project-name {
-  font-size: 3.5rem !important; /* 放大標題文字 (預設約 2rem) */
+  font-size: 3.5rem !important;
   margin-bottom: 0.5rem !important;
   font-weight: bold;
+  line-height: 1.2; /* 避免標題太長換行時擠在一起 */
 }
 
-/* 針對描述文字 (project-tagline) - 隱藏 */
+/* 隱藏描述文字 */
 .project-tagline {
   display: none !important;
 }
 
-/* 針對按鈕 (.btn) - 隱藏 */
+/* 隱藏主題預設按鈕 (View on GitHub) */
 .btn {
   display: none !important;
 }
 
-/* 調整藍色區塊的高度 */
+/* 【關鍵修改】隱藏 "Run Update" 手動更新按鈕 
+   說明：這個設定會讓連結到 actions 的按鈕在「公開網頁」上消失，
+   但在 GitHub 後台編輯時仍然看得到，方便您管理。 */
+a[href*="actions/workflows"] {
+  display: none !important;
+}
+
+/* 調整頂部藍色區塊 */
 .page-header {
-  padding: 3rem 0 !important; /* 減少上下留白 */
-  background-image: linear-gradient(120deg, #155799, #159957); /* 維持藍綠漸層 */
+  padding: 3rem 1rem !important;
+  background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+/* 內容區塊優化 (提升閱讀體驗) */
+.main-content {
+  font-size: 1.1rem; /* 稍微放大內文字體 */
+  line-height: 1.8;  /* 增加行高，讓閱讀不壓迫 */
+  color: #24292e;    /* 使用深灰色，對比度較舒適 */
+  max-width: 800px;  /* 限制最大寬度，避免在大螢幕上太寬難讀 */
+  margin: 0 auto;
+}
+
+/* 新聞列表優化 */
+.main-content ul li {
+  margin-bottom: 1rem; /* 增加每一則新聞之間的距離 */
+}
+
+/* 連結顏色優化 */
+.main-content a {
+  color: #155799;
+  text-decoration: none;
+}
+.main-content a:hover {
+  text-decoration: underline;
+}
+
+/* =========================================
+   📱 手機版專用設定 (螢幕小於 600px 時觸發)
+   ========================================= */
+@media screen and (max-width: 600px) {
+  /* 縮小標題字體，避免在手機上佔滿整個畫面 */
+  .project-name {
+    font-size: 1.8rem !important; 
+  }
+  
+  /* 減少頂部藍色區塊的高度 */
+  .page-header {
+    padding: 2rem 1rem !important;
+  }
+
+  /* 調整內文間距 */
+  .main-content {
+    font-size: 1rem;
+    padding: 1.5rem 1rem;
+  }
+
+  /* 調整標題層級大小 */
+  .main-content h1, .main-content h2 {
+    font-size: 1.4rem;
+    margin-top: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eaecef; /* 加底線區隔區塊 */
+  }
+  
+  .main-content h3 {
+    font-size: 1.2rem;
+    color: #159957; /* 讓小標題有點顏色區隔 */
+    margin-top: 1.5rem;
+  }
 }
