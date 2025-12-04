@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 針對標題 (project-name) */
+.project-name {
+  font-size: 3.5rem !important; /* 放大標題文字 (預設約 2rem) */
+  margin-bottom: 0.5rem !important;
+  font-weight: bold;
+}
+
+/* 針對描述文字 (project-tagline) - 隱藏 */
+.project-tagline {
+  display: none !important;
+}
+
+/* 針對按鈕 (.btn) - 隱藏 */
+.btn {
+  display: none !important;
+}
+
+/* 調整藍色區塊的高度 */
+.page-header {
+  padding: 3rem 0 !important; /* 減少上下留白 */
+  background-image: linear-gradient(120deg, #155799, #159957); /* 維持藍綠漸層 */
+}
