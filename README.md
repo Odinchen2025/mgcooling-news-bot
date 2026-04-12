@@ -1,7 +1,7 @@
-# 🧊 MGCooling AI 水冷每日情報 - 4/12/26
+# 🧊 MGCooling AI 水冷每日情報 - 4/13/26
 
 [![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)](https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml)
-<p align='right' style='color: #bfbfbf; font-size: 13px; margin-top: -20px;'>更新時間：2026/04/12 07:25</p>
+<p align='right' style='color: #bfbfbf; font-size: 13px; margin-top: -20px;'>更新時間：2026/04/13 07:26</p>
 
 ## 🔥 本日焦點 (Top Highlights)
 > 快速瀏覽產業頭條：
@@ -52,33 +52,33 @@
 
 ### 🔍 Data Center
 - <small style='color:gray;'>4/9/26</small> [BILL BILL](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wMi0wSDh4aExqXzZwMGZBWVJsOXlncHBGSXdhbFVxZnlid1p0WmpDOUZ3V0piLU9TV2ptUloxck01MHRhYUVoSXRXejhoOEppc2FES1IxS1k?oc=5)
+- <small style='color:gray;'>4/12/26</small> [戰爭衝擊能源價格飆升 馬來西亞資料中心仍有競爭力](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGwxQ3p3QUhrVmhJaDJ6OW1NVDFlZTQwb1d3SGlxYlJ2NnV4UWIwTC1GMXhUbzUzY25vZzN3dnZiYmVJM2ZLd1FPblo0OHgyTDNDc1dXVnNHYWppbEY5a0VxUzZZMDFzZThISjFEN1FkaDI3TDRva1pYSmNkZ0l6eTQ0U2xrMHhVWWl4NGdR?oc=5)
 - <small style='color:gray;'>2/24/26</small> [Steam資料中心模擬器《Data Center》釋出試玩版！滿足每個客戶的要求吧](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SV2UweGVtM09xY2ZHWDFyM1F0NGEwRWVHd01QNjJkNDhNY3prS1cxMENuYXVNRnpjMmtyWjU3RTgyU0xNQXdyWmxEa2pLaG9GREhwMWNnN3c1Z9IBX0FVX3lxTE5aQ0ZvTHJ2cHdXZ2pfNVJrYXNNYW53VkhpR3JfMm41SEpHVTZTdFJKendkV0dlU1F2TDdpN0pGelhvMmlyRnpsbE9kLUZjSzlvVlRET3R4N0w2ckRVRnlZ?oc=5)
-- <small style='color:gray;'>4/9/26</small> [從歡迎到抗議 AI資料中心在加州踢鐵板](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LWC0wQzBLXzZ4N25yZk1XMUU2SEhXT3I2Y21PQzB0QVNPY2l5WlFhbExhR1J1WHY1RFRRMjBESzF5cmhEUm5yQm9SMXhKT0JyNlJlN0cwR0p4cEg0Y1lNR1VR0gFnQVVfeXFMTWZQZ1k5N19IQ1BYem5ueWN6eDlTZng3WGtId1BTWkdxcU9vWktibDFCSFNRQ1FCMFZ2dkVKaURfampQUTA3clVIdVlaYzlJMFk1RFk0ZDBzdktYX2o5WllvVFAydzhfUQ?oc=5)
 
 ### 🔍 資料中心
-- <small style='color:gray;'>4/11/26</small> [人工智慧驅動全球能源需求驟增 資料中心耗電量十年內恐倍增](https://news.google.com/rss/articles/CBMioANBVV95cUxPUElpSGZxTGNVUGxjM21BX3VZdHF5eGtvSjY4YVhsUzc0LVBTdzRIR2ZQT3pjMkpFSzFzWklxaDdaVHpIRGU3YW9ySXQxWHQ3VU4wN0NTMVNBZ1FET0lacXZFYnBuMWVQZHZ2U0Fsc3Vzb2prc2EyZ3FUN29LTE4yTFIxUFhIZXV0c1p6NFpOejl6NU9lVHpKTllXME9IWWRFT3lBOG04SHhfalYwbWVDMVhucXlKMU5jbEgtdFVvSWNNc2VESUcyYllVZi0zTGRHX2lJRGU0bkg0Qm1CTjJhdzVaS25XTTJJd3ltdDJmTHU4c3dDTG15eTRqSXM4c1h1VEtvdzBZM1RHaGlBU01CekwtSHZ4VUJGdC11aGRsWGhmZ3JzbmdSV0V4VThoeW5DNXBmTENDWHlETzNQZjdvUzlPSFVPcm5fTmtYVzdRNzhuVnhGVDh6dE5FQl9SbVd2YkZrUUZDN1RKVlB1a1QyN3JzMDVGMUpwNkZlZ1ZXVDVtRkRxNWZVX3BMTUF6YzNKaXJNQ1BhdXdLYndWNFVvcg?oc=5)
-- <small style='color:gray;'>4/11/26</small> [伊朗襲擊亞馬遜AI資料中心 全球AI熱恐熄火？科技專家曝5年大趨勢 ｜ 蕭宥宸 ｜ 新聞](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2MnBFbDdEb3pURW5FdFpvZnBiekRyQnN1dUR5OGNaVldpaEdtMXd3XzNJRU5OVlVQZV9HNkowNGoxeHg4MmhQM3RFaHBDdw?oc=5)
-- <small style='color:gray;'>4/10/26</small> [亞馬遜砸120億美元 新建資料中心](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rYnFNVVdLLUdWNzJETXB1ZVZhOGxwNUtrbVJHcVJRQm1nRl9haVh5WWNqSDczalpKTnhwbFppQ2hFM051S3ltYW5lT1FwRklt0gFWQVVfeXFMUE5sRmJReWI4MGtYNFFfcVV2NHNHN19xU3dnZjZlV0VfWHpPc1FPQW02clRnZExYT0lHM1Q1T1NBODl6ekxwNF9XLW0wb25NMGRGSTJ0UWc?oc=5)
+- <small style='color:gray;'>4/12/26</small> [FCC研議擴大限制中資電信 聚焦資料中心互連與中國實驗室認證](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcm9wRlFseU5OdTdFZEx6OTFEX0xDRGpwSGZvcnV1aGlTbTQ0M292ME9vcmJpajd6TXg4WjFnLTFWdW1zb0N1aVZoYUMzOEdPdE1zNWNzZGZSQ2FFaVAxRGJoU1E2MjBZMEFaZmN4Q0FZSmlRODJRTTVjcnZDUGRqOThveXlRV2Rub2Y2VUlB?oc=5)
+- <small style='color:gray;'>4/12/26</small> [〈財經週報-投資觀點〉鎖定AI下一波商機：提前卡位資料中心與電力基建](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jY2RxcTFBa0hCS0tRSWVfNVF1V2hJVENZRlk3eHdVcG5OcG1mYnZZaGhYc0d0SEpBYW5HdXJEN0ppa21aQlZxQ3BSaHNkazVVTms3MFRwSV8?oc=5)
+- <small style='color:gray;'>4/12/26</small> [機電四雄卡位AI資料中心商機- 日報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MOVVubGpkdGpncm83aGVQS1BFNlJrUTZIV3JYeV8wWmtFOEh6MDUyZk9vcWVMUkEtb3NyMTMwRlM5Uml3S2RjbVc5dVpyTUxwekhDZ1RwdnIyT2FVTC1N?oc=5)
 
 ### 🔍 PUE
-- <small style='color:gray;'>11/4/25</small> [5MW以上新設資料中心須達節能門檻 還要審能源說明書](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvYXhhRVo0SmdEU3JUdkpDNjkxeW9xOGtXZHlTT1ZsUU1JZFVhSkdXaWlEblhzNnFBcHJjbkJqbkFUUXVqNlA2RA?oc=5)
 - <small style='color:gray;'>11/4/25</small> [經部納管逾 5MW 資料中心用電 未來將強制提升 PUE](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1d0JqcEVhR1labTh3d0FXb1BwUEdaelJaa0cxMTRycTd3NW95N1M2QmdyaXI3VmxuME1OT3FoZnMyNWhLdklvQlNSV3VEQmF3bHhkNTZmT2lrUdIBX0FVX3lxTFBfRTFMdUxOaFBKUDdYb3U4b3N6VjZLZWI2dHdxdExWcWpBcUw5QV85aU5oR0hQTlpVU0tvLUNzaE5iVmNyYnNqZU1pZmwwLVR5bTNNSFpFUjNXX0lZUS1z?oc=5)
+- <small style='color:gray;'>11/4/25</small> [5MW以上新設資料中心須達節能門檻 還要審能源說明書](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvYXhhRVo0SmdEU3JUdkpDNjkxeW9xOGtXZHlTT1ZsUU1JZFVhSkdXaWlEblhzNnFBcHJjbkJqbkFUUXVqNlA2RA?oc=5)
 - <small style='color:gray;'>3/30/26</small> [數據中心耗電巨 港未列PUE規管 環團料沙嶺年耗相若64萬戶 促訂上限「與世界接軌」](https://news.google.com/rss/articles/CBMisgRBVV95cUxNZzhGclV0Um5RWWM3TVhKOTZwanhBUXJZUTA4cFljQTNpZ2QtMHJTWk9mZW1TM3JIRkZrNHVtS3hhWGxSU1c5RmNTMWVHQklUT0tQQllUbk9GZkFJTl9SYUd4WFczTzBYdDJaeTZyamRUaHpydklsSm8yU3U4ZDBvaTRhMnptTGRQNmI1cXRabm05Q0VTZVFFYVZQY1hFbE5sbFEtS3Y4XzUyTnlPT0RqdEd2Uzk5VVo1Q3NBTVdodXNvM2FfRWVmS2d1RW5CbjRwSDVFc2lRcUNoS0c3MmtfX0pTMlRHYXBHT2JibEh4S01JYXZaX0VQd2NqOHRiSGhHYl9GTEVldXRiYmVXam1LZGJQTDY0ZkRHeHdDME50cVFDTUV2TG96c1l0TUpHbjFsamJOVms2eEtWRi11NFhkWDRLTEdPQW5kc25BRTE5cklHb1NYUVZ0M1hzTWJ2RHRHUDhNUDQ5aXZVX29hQWNhX0lYbEZYTXdpbnFOV3lEQlFnblFSRURGcElyRVhQMEo5SnZuQmpFOGNqVWV0b1FJS1pCbno5dTVXM1FWc0lITWl1b2loWEhtNGFfdXdWLXNRckxvejJpSXRZZ2h4WVEtR0RfWHhRYWlTYXpCRXpVRFVJMzdXTExDT3AtUjB1ZC1hbFZOV1FZaVRiVUpHMjA3M19YdUdSMnZfQzdoYWdOd1Q0M2UtRHBhMVdvUFRwU3lNQTVld0daTGNCdXozc1VjaUt3?oc=5)
 
 ### 🔍 AWS
 - <small style='color:gray;'>4/10/26</small> [AWS的AI年化收入已達150億美元](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wRWFncXJ6cF9tdGFzZjVDOXN2blc4d3AwLUZydk9zVWxpQkpjZWxRYlV3ejNrdm5keFhuLWo3cmFsWWFZOGZUNmR3anhhZw?oc=5)
 - <small style='color:gray;'>4/9/26</small> [AI熱浪伴隨淘汰賽 AWS點出企業導入AI失敗主因](https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0htNVZKdHRsTzM2YWlQLUZrVm52WjNiRXBwN0RGYjZsZmlaZzFvX1l4aFAzTFZPQkRvdk14QzN1emx4RGVpSUx2cmhFWHpsUmxQTU5UVzBGSXZUQnhjQTBXdHgwNkFKT2ZDSnItYXdLbkJuYWY1Zi1nNkltc1ZBNTZFS0FhMWMycW1oSWRB?oc=5)
-- <small style='color:gray;'>4/11/26</small> [【美股動態】Andy Jassy喊話押注未來，亞馬遜2.6兆市值還能再漲？](https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXZVNS1RV2h4TnJSTzRyd0U1Vm91SlRNRm1QTjJvR0NPQURHX3FhTXB3d1AzUWFGd3VaQm9BVy1Hb3hXeHphQVpIODJDT3Y3VkpROTcxTXp4ZkVFNkptdGg2LV9kVHM4QVo1dTNxY2FwSkI3U3ZPWjE5SnlpM3lXOTZWWTRYZ2wyOXJHMmpR?oc=5)
+- <small style='color:gray;'>4/8/26</small> [Uber 運用 AWS 自研晶片訓練模型，提升乘車和外送行程效率](https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWs0aG1sd1o0aXdtUGJVSkJUTzJ6alNmSTJTNU1Xdm5pRWUyRVdVNGF6YVpyeXVQaW1YelpPdU5tb2xaR1k0R2V6VVBLSmw2LU13cFVMdjVxa3M0MmdfazVDMHJQRUstQUxSUUdrYUlnbk1JX19OWDBISzhUUzlreUE1NV9oTE5DQzZqSHlURFU5MHh0NlJYWWM5czFSX3BHdlo3d3ZmYzNtZGY4MmxobkxR?oc=5)
 
 ### 🔍 Google Cloud
-- <small style='color:gray;'>4/7/26</small> [Red Hat 與 Google Cloud 擴大合作 協助企業加速雲端移轉](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PS3hZSmV4a09GMkQ4cGUyR2hMeEZPNENLOUdNSnhiYmU2YjZEdklXWUpqMUJUVDM2a0l4ZnBBS2ZTVlN1cFZyS3FtbEJhMThndnFMalppbXExZ9IBX0FVX3lxTE8tQWxZdlZoX0g3bE9wd19zSjc3c21PSDBicVE4THNVRVRnbzgzbmh5TzBwZnpLSU1IemFRNTR2c3I1V0pZN0Nqamk0V0E5WHhmY2FidjBpNUgwN3d5UmFr?oc=5)
 - <small style='color:gray;'>4/8/26</small> [Red Hat 與 Google Cloud 擴大合作，透過 Red Hat OpenShift 加速應用程式現代化與雲端移轉](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zbEZNVHZxWlZCTG1XX21DM3dKNjVWS0NXOEIxYkNoNHV5Rm9qems3ODduMXE3S01kOFdIMnBHZ0dwQ1N1a0Rpc3k0OA?oc=5)
-- <small style='color:gray;'>4/9/26</small> [和泰汽車攜手Google Cloud導入Gemini Enterprise 以AI代理啟動企業數位轉型](https://news.google.com/rss/articles/CBMi6gJBVV95cUxQT2hST3B6MVlhVjMxcUp5cHNPb2RkYjJRQ1k1QkhvR0lrcEFLQzJBM0Z4STY5ZmFuc01uV0RRdHJtbnFkOU0zcG42TERnNlNTS2ZjQXZwSEUydWhBanIxWGVXYlA2ZFdza2RkTDZIbk1IazVhUWxDMkU3d2UyWFRZSWsybEUzbmhzc1ZJdXdyaUpkdkQwemp1OTZYX1VUZWxvNVJvQTFWUmw3Z0NCUHN1XzJNUHI0Z1lxU2pFT1AxTXJhUmxDakYzdTluRzlCV3NwYkpFOVVTcll4aTREMkI5Y1FGN2dTdG9fSWtGSkZnV2RNZmZfeDhYMGhuQ2xoU1MxYURyU3FvVlFvWHBEdjNNbWFuOEpjWDRiMjdHLVpiNXZlN0FQZ0Y3dF85LS1tcU54Nm5rNlNLUWVieDItaEJVUnVuR1htMWRQY3RKdkRiQ3NBRzdFV2NabTV5ZEdvVXlXTDd4dng1cTBXQQ?oc=5)
+- <small style='color:gray;'>3/30/26</small> [邁向 2026 代理式 AI 元年！解析 Google Cloud 全端架構，為企業築起智慧營運護城河](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uRWJ1UmJDUzh2a3pVMlU5TmJLdDMtVUVXSUYycGtBMXVxSURNcXRaTTlOQkRWbXZWYUxaNUVWa1owUGgxcWRDVHpSQnh2Uk84WkxVZzNhUG1NN09vdXBJ?oc=5)
+- <small style='color:gray;'>4/9/26</small> [【美股動態】谷歌砸錢押Intel，Google Cloud狂飆48%背後在算什麼？](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVY4dlVMQzBxRzVhTWQtMG1JODdoSk1EMGJvWXFaSmFFUXRSNTRESFBZYVRVQU5MWG1ubFB3aWd2SHdsWTl4X00yT0JQUkpndXFqMHFmaUh1UWVyRXNheWNKOWh6T0ZxYkFkbXI3dFpGUGNCNU5FWk96N3gtQV9uREtXLTNmZXRXd1hVajNB?oc=5)
 
 ### 🔍 Meta
 - <small style='color:gray;'>4/9/26</small> [Meta最強AI模型 台鏈叫好 預期引爆更多伺服器需求](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZc3ZPVXJRUm95ZlZZT29YTlFSSnJuaGhyQ2s2dEJKb2ZYUGEyMzNkaHI0ZXNiTmR4T0VkZnk3bGZRVE5Ga3RqekRLQTZhWENLMWdaemdVZjBTUdIBX0FVX3lxTE1tb1plc3VMLUg5M3pkaVBYN1JEOGt5YWJ6RzlmVDVpbTBSTHo0QnpfWUFPb0JzcUNpSjh4cW5uc3Q4STBLdTQ2QUJLZEdnQ1pjNTRJZEtsTjBPUEVRMGUw?oc=5)
-- <small style='color:gray;'>4/10/26</small> [Meta 調動工程師進駐新部門，為 AI 原生組織和裁員鋪路](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXV5N05VRHdSeHptanN3ODhYU3l3T1FlNFhOQ290WWZITnVVMHc2VVhaMDRNLWVJcDBqSnhDWHBVLU4xU0ZQaEdYamJkXzBJT19kT1ZHTDZvb19rSWlvRDZpSGRobF9JY1RIZ2FKcUMyZ2txQ1JtR0RMU2hBOEVjUXFuYjJXY1czdHVERUZn?oc=5)
-- <small style='color:gray;'>4/9/26</small> [Meta發表由超級智慧實驗室開發的首款模型Muse Spark，將直接應用在產品上](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMUw4Z0NFWUlJcEV6YTlnVEcxNDhGTk1yMFltLWlmcjY1Rkk5YWFVZFVwU2dLRGEtcmVxOGxJYl9vX2JJd090ZjVMSG9Gdw?oc=5)
+- <small style='color:gray;'>4/12/26</small> [Meta 的 AI 相關職位能領多少錢？PM 底薪逼近 35 萬美元，完整薪資表一次看](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzN0R2ozOHM5SHZRQmFrZ2VsODUxdEV4QTFzUlZCdndRVnpOQkxNSWFZMUtZYzA4bVdFQlBFVnAySEJ1M3p3N3g2V3pqZ2stNnNETjVmYmdMWEZOaW1XTlhZbkxLckVoRzZoNDhzMWtqb1N3YUxBNTZxSmk0NkE4LV9SaTJLUEo3YVpXYUhPN082Sm5fb3l4WjdQX3hqS0pQZ3R4cUpEMA?oc=5)
+- <small style='color:gray;'>4/12/26</small> [OpenAI三大AI主管跳槽Meta！AI基礎建設競賽升溫、「星際之門」計劃受挫](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QeTNoOXVGcHhXYUNLaFZzdndiS19iOHBLWFg5bG92RWlPRXgybkRJaEJNcnFSbml5UmNWeV9ST3RONG9VYkQwMk1aSXlRQ1k?oc=5)
 
 ### 🔍 Wistron 緯創
 - <small style='color:gray;'>3/30/26</small> [GMI Cloud 攜手緯創，打造 120 億美元 1GW 日本主權 AI 基礎設施](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlb3U5VGRGOVp6dFpsdUc4VlRYVUlKYmRrdkZSd0VpNHpMbU1EM2FhdGpYbDdVc2Zac1ZiOEphQTlkZm1TV0cxYVFMdw?oc=5)
@@ -98,7 +98,7 @@
 ### 🔍 H200
 - <small style='color:gray;'>3/27/26</small> [輝達哭哭！H200賣不進中國 華為新AI晶片卻拿下阿里巴巴、字節跳動](https://news.google.com/rss/articles/CBMiiwNBVV95cUxOT3p1LWZZM29xME9hMTVkb29TLXV1V0diTGVuQlFmM2lPcERMbk9aaEFWZW0yS2M0SE5jdURjT3hPOUQ0eEtValBQdnlWUFNQZ2tkOEZKTTFRWEZnTkxfVk1zRHctdWdlY0lGNGR6WmJwa3owYk00Qi1MUkJNRjdabFV2X2FqbEo1dHdWOEg4LWdDcDNkSzJjQURLT1FCNEtrcFdaS2tXYnBXZ2NYTjJzUmR3cldmaDUzY2lIS0I0VkVuODlURVl1dVhxNHJfdXVKbFhqRVh3aWd2RHEwLXB2amZtSkpuM0hhMlMwT3pKdm5KOE04emQtbVRiZ2MyOGtxOG5YeXBWcUpkT0dNZzQxX2RkTWRDSUlaRmVxcjVaTUdQMGtPMGVtTklrNVdZZnl5Vkg2NWlpM0dBRXo1dFJBdTN6SnlYQndnZmRkNFF5V3hVcHpkbW84blZoZGRHM1ZqZXBJY0lWVHZPYXc2M2k3T1p4cWZraDhoUk56VjhUYmdEZXpNSHJRYmtfOA?oc=5)
 - <small style='color:gray;'>3/29/26</small> [黃仁勳確認：輝達重啟H200對華生產！](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vWUZJRktNR29QUkQ4V09ENEZFNlJ3MzlRYk1keFJmNDlKUDI1NFNUZ2ZYaFl1VHVmUEZJWGF5Uk42YUpqYVoxSg?oc=5)
-- <small style='color:gray;'>4/11/26</small> [Nvidia逆勢抄底時機？H200重返中國＋Vera Rubin千億題材，5月20季報可望左右股價](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFRfYnZjVjVXaG9Oa2pEVjZDUmw3N1RIblR6ZUhUclRQVWxIbkloTlZiSlhxbERvbGpBU1RpWkdyVVFlWDlxcndWWXh1aVF6QUwxRGUwbURFTDNaSnBtb0puZUl0NTJibTNsbkNSLXN3ZXJDbTRORlB5ajJ3X05QSFJ3aXJwakR4RkZsbWd6cnd3NjNG?oc=5)
+- <small style='color:gray;'>3/18/26</small> [真的拿到中國訂單了！黃仁勳：H200已重啟生產](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1keXZzTnFZVUxfRE1IeVhCSFY3SEk1S0FmYkI2YkdGcHVzMWdyODlmOVUzVFZpbHZOYmVvbjIwUGNRNDFWWUNzaE10LUthV0FTSlA1bHRZTlY2VGp5SEVv0gFkQVVfeXFMT09JS1BnWXM3MEM4cDdQYkItdHZVY09NUS1wOWpaaUdvWVhSc1pybE01WnZRdV9MSlVWS1RRc3NDTUxFUnh0Y3NoSHhMQ3FXYi1SZjBIZzdJYW10ZkVIV1ZXZ1diTQ?oc=5)
 
 ### 🔍 B100
 - <small style='color:gray;'>4/7/26</small> [土展局：处制定政策阶段 B100有望成替代能源](https://news.google.com/rss/articles/CBMie0FVX3lxTE5GcUV3cl9RX29nenhHbkZ0V0hBcXBtSW90VmJ4dG16X3ZMSmEwSHlqSk9wSVJNVmpZbWlUbFJScWRjS082cUtFUGtLcTQ0VnQ1TW1LZVhSb2MzRUtHdGlxT1B6ZFBwVzllMDBQWVVGUGxRUVpTLTdPaFpOUQ?oc=5)
@@ -107,8 +107,8 @@
 
 ### 🔍 GB200
 - <small style='color:gray;'>3/19/26</small> [大摩看好GB200/300 NVL72機櫃2月出貨量 按讚三台廠](https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdzFjLUp4eDhUeEpCX01janBOMHNqWW9KNGVhT1U0dE5ySy00QXBQSDhVaXo4MHpYSTNrY2szUHdWbE1RbGxUdi12OXBiYndUWU1DSWxKZWJ6RVVtVVJZcHRySEhjN2w5QTdxeWI4TE0xMFZlRUJHX1VrOA?oc=5)
-- <small style='color:gray;'>4/7/26</small> [黃仁勳野心不止GB200！輝達砸數十億美元 2028千顆GPU光子架構曝光](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MeEtKM01zWEkydGllWmlxdkhkMVRqcjdOUGhFclJTSlVjNFhkQktKNjBjWngwbFRsbzJibWZKbWVmQmo3NWtyM1BVcHpISFU?oc=5)
 - <small style='color:gray;'>11/13/25</small> [AI怪獸伺服器狂飆！GB200／GB300點火跌破眼鏡 大摩點名：「這8大台廠」營收一路飆天際](https://news.google.com/rss/articles/CBMi7gJBVV95cUxOeFVuVnJfeUhzQ1RmdXlleFByMzE0bEJZNzNxbkFfdUdGdGxVemY0Z254bldoU0JWVG1lVExobnN5enVUNDIwUVI5dnlLR2JTVklHZzNmZnIyVTdwV3ZWRUY3MlhVa1h1QTlvM0t4VS1LZWNpcnhXV3hLbkJfMTYzYXUydDBGdTZmOGpvRkpFRlhwZ3FVN1N6SGljVy1DTnBaX2RLeUotdk9raGRpdTdMNUdOZElKQWdLbGZzT2kzSXVKQllyYWF5bVJBQ1Q1R2VxcmtVSElDTmFNTGlWZ3hiV1FoNlZOQ2lob2MzR0RHOUxxQjhvWlU3cHdCczNGV0ZfVXFyQkRyelBwZkZzZUFTVHNBcHY5aFJTUWRaNlJqdkdkRVVGSzdaa0V6ejZxeXA1UkFVdGxMdHhiU2tTVWFWOEh3NnNrMEswcVo5T1NUNENRcWt2YXh6d1FIb0lBZ1h0bjNkbG9MdFZCZTdDR3c?oc=5)
+- <small style='color:gray;'>4/7/26</small> [黃仁勳野心不止GB200！輝達砸數十億美元 2028千顆GPU光子架構曝光](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MeEtKM01zWEkydGllWmlxdkhkMVRqcjdOUGhFclJTSlVjNFhkQktKNjBjWngwbFRsbzJibWZKbWVmQmo3NWtyM1BVcHpISFU?oc=5)
 
 ---
-*Report generated at 2026-04-12 07:25:09 (Taipei Time)*
+*Report generated at 2026-04-13 07:26:24 (Taipei Time)*
