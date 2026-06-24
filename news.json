@@ -21,6 +21,12 @@
             "description": "元鈦科董事長專訪》AI液冷新戰局陳茂欽解熱先行者- 日報&nbsp;&nbsp;工商時報"
         },
         {
+            "title": "元鈦科董事長專訪》陳茂欽：不賺讓人後悔的錢- 財經要聞- 工商時報",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FRDI2SW9uNEpUQVFlNlgtVEJUOTgwTkNoUnJxR2xYVU82c2JzLWp3MDFDUGItTlZOZzRNMElvSnVCUXNfNDEzMGlZa0g5Z1ByeHpia0s1d2t6dVVVMjQ3eGlyVTZoMGFIUkVB?oc=5",
+            "pub_date": "5/25/26",
+            "description": "元鈦科董事長專訪》陳茂欽：不賺讓人後悔的錢- 財經要聞- 工商時報&nbsp;&nbsp;中時新聞網"
+        },
+        {
             "title": "散熱廠元鈦科16日登興櫃，拚今年維持成長力- 新聞",
             "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlFPd1hsZUw0Wm1xVC1uLVpkZUxRMUFxbFlNMHZCQ0lQeGV6UUxIZ2diMlZjeDBzbjlqR1h3UmwtZHFnQ29MRXJ2NEFBVXVKM2dOaGVHNS1Ebzk1Z0JuTFlsSzFEU24tYWtWU0tDQ1pOTUplRGZiSjc5eTBTVEhxUDk5VkRHOUthbWYzdm56VmVOdw?oc=5",
             "pub_date": "1/15/26",
@@ -31,12 +37,6 @@
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tWkZ4V05FUWRBZ3ZxeWp0VEVSYk5LNk16b2djMGFGR3lqOVd5QVVnclR4Y04wa0FNZFZGVUkweDJDeVJ5ZkJZdHVaNHpoM1VqOGttNkc2Q3dVVzNONFhwQkxyV1Q1WTQyTTNaM1BUakF1U0NpN29YVHFWaw?oc=5",
             "pub_date": "4/15/26",
             "description": "興櫃台積鏈6》緯創砸4.9億元入股！元鈦科掀液冷革命 搶攻AI資料中心商機&nbsp;&nbsp;財訊"
-        },
-        {
-            "title": "元鈦明日以參考價238元登興櫃 緯創為最大股東",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JU3l5ck92VnB5ajZJSFRTVEt4SU5Bd096NHkxeEtxLXpJUDk1QnlNRDRPSzAyUE84T0lzVXRQRUdmZUZQVFVQNGpPanlFQkk?oc=5",
-            "pub_date": "1/15/26",
-            "description": "元鈦明日以參考價238元登興櫃 緯創為最大股東&nbsp;&nbsp;news.cnyes.com"
         }
     ],
     "液冷": [
@@ -47,42 +47,42 @@
             "description": "《DJ在線》液冷滲透率升，散熱廠從零件走向系統級- 新聞&nbsp;&nbsp;MoneyDJ"
         },
         {
+            "title": "樂金搶攻資料中心液冷 標準分歧未解、台伺服器廠合作受矚",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUUzTXhwbFNzQWRJZnZ6c1pjZFdmZVRaSWg0bDZzSUpYT2VXY19IdFFFdDNxbHVuT1FsNVVMc3ZYX1FpbF9tbHhYNzBaWHJBRFNINl9kVTZmNmh4NFJ2Qkc3YkliVklOVVhvamFLRWtEbmRydmI1d2VzX1pjZ1l2VlpZNU1jY2ljZ0F4aEJRUmJITlQ2WWpucA?oc=5",
+            "pub_date": "6/24/26",
+            "description": "樂金搶攻資料中心液冷 標準分歧未解、台伺服器廠合作受矚&nbsp;&nbsp;DIGITIMES"
+        },
+        {
+            "title": "輝達推新全液冷資料中心，封閉迴路挑戰 AI 零用水",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDdUUHhaUkVaazFWVHo0eEZja3JlVDNobXpCZWVNQmo4eFJ0X2J3Ung0X1FsZ0ZfTnY0VkpqaFJ5dlZNcU13TVhVd1FXbE85VGotT01iOVpSUWRQZ3JRcXRJdjRyTTZEOGRUT0JWMXBPaGhXWEhYbEN6MXRRX2EyOTdSRXdjVFBkRmtXcm9xWF95eFNyNVVPMGZkZ3Jldw?oc=5",
+            "pub_date": "6/23/26",
+            "description": "輝達推新全液冷資料中心，封閉迴路挑戰 AI 零用水&nbsp;&nbsp;TechNews 科技新報"
+        },
+        {
             "title": "Google推出Brazos液冷設計，不需改建機房也能部署60kW AI機架",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zdF9vSEI2Zm9vZFd1NndQUERtQTFyN2MyRmp0aVhXS3h4S2Z5QmlvVlJhcHdEZ1FORURHMGtlRkZ1ekVJZFFTcXBjZ2FvUQ?oc=5",
             "pub_date": "6/22/26",
             "description": "Google推出Brazos液冷設計，不需改建機房也能部署60kW AI機架&nbsp;&nbsp;iThome"
         },
         {
-            "title": "NVIDIA Rubin實現100%液冷 45°C冷卻液溫度創業界首例",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblhwRzk4MzhEMzFpR0ljWnVJbWJoN3dsYUFHSVoxNGFXblJWY3E4ZDFsYU9TWFhsd1Y5Z2JxYjd0U2hEeWgxbFZqbHRocWVPUzlPRk5aME9uYzYwZl9Ed3VfOV9wYzRud1FSMmx3RzZnMDB3Z1hIY3dDX1dGeWZaNVlOQ05UQW1iN1lUWlhB?oc=5",
-            "pub_date": "6/23/26",
-            "description": "NVIDIA Rubin實現100%液冷 45°C冷卻液溫度創業界首例&nbsp;&nbsp;DIGITIMES"
-        },
-        {
-            "title": "AI 資料中心進入液冷新時代， 流體系統專家 Swagelok 點出穩定運作三大關鍵",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HWjJxa0lGNUZaZ2xJT2dFSV8wQlB2SXBPTGRXMFRxNGhmcWlzb285MzNOZzgyanpNZjNWV0ozYVdpRTdDUlVsZ1pXcGN5bzRqWWpFYnI5YTFPUS1EUUtTS2RtS1FrV3dENmVTOWN6RWZLeWM?oc=5",
-            "pub_date": "6/23/26",
-            "description": "AI 資料中心進入液冷新時代， 流體系統專家 Swagelok 點出穩定運作三大關鍵&nbsp;&nbsp;TechNews 科技新報"
-        },
-        {
-            "title": "輝達稱新液冷技術解資料中心耗水問題 專家揭盲點",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYi1PUU9lSnlhTHkzZEZjTUcwc29ZOVFncDN1WHk2b2dsUmdpWUVmV3NpYXptYjZ0bmJQVmxiX3A5NTR0alZOeGZ4eGhDb3VPN0NYOEtrR1lrNV9EU3FBR3JQMzFUNjNtcGpYUmNRSGp1bWxqdUhfX3MzVjAyaFFYYkNqZk85U0w4a3VhRw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "輝達稱新液冷技術解資料中心耗水問題 專家揭盲點 - 科技新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞"
+            "title": "速克立直流大流量泵浦搶攻AI液冷商機- 商情",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpaVp4ZG9yOFd0c2Q2aXZwM1llNEhzMkVUYi13V3hXWDZJTEVZak5wa3Z0ek9PUDBrZWQyd3FJWVotTDBSVjI0Z05xcC1Ic0h4YWQzQ3ljTENDdWFoME9R?oc=5",
+            "pub_date": "6/22/26",
+            "description": "速克立直流大流量泵浦搶攻AI液冷商機- 商情&nbsp;&nbsp;工商時報"
         }
     ],
     "Liquid Cooling": [
+        {
+            "title": "輝達推新全液冷資料中心，封閉迴路挑戰 AI 零用水",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDdUUHhaUkVaazFWVHo0eEZja3JlVDNobXpCZWVNQmo4eFJ0X2J3Ung0X1FsZ0ZfTnY0VkpqaFJ5dlZNcU13TVhVd1FXbE85VGotT01iOVpSUWRQZ3JRcXRJdjRyTTZEOGRUT0JWMXBPaGhXWEhYbEN6MXRRX2EyOTdSRXdjVFBkRmtXcm9xWF95eFNyNVVPMGZkZ3Jldw?oc=5",
+            "pub_date": "6/23/26",
+            "description": "輝達推新全液冷資料中心，封閉迴路挑戰 AI 零用水&nbsp;&nbsp;TechNews 科技新報"
+        },
         {
             "title": "Innovating Liquid Cooling Solutions for New-Generation AI Data Centers (Presented by Aivres)",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWOVpXUHBqVFI0NWtDZjM5TzNnV3BzVEZPb0NYOWROZm1fQ1VnOEZIMEY4WndoYk1BWDZKaG9KQmJoeFk2cmtsWml0bDdiMnFvZE5oN2FMc1ZTLS1POEhYd1Fnc2ZSM094Z3l0Rw?oc=5",
             "pub_date": "3/18/26",
             "description": "Innovating Liquid Cooling Solutions for New-Generation AI Data Centers (Presented by Aivres)&nbsp;&nbsp;NVIDIA"
-        },
-        {
-            "title": "輝達推新一代全液冷資料中心，封閉迴路挑戰 AI 零用水",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDdUUHhaUkVaazFWVHo0eEZja3JlVDNobXpCZWVNQmo4eFJ0X2J3Ung0X1FsZ0ZfTnY0VkpqaFJ5dlZNcU13TVhVd1FXbE85VGotT01iOVpSUWRQZ3JRcXRJdjRyTTZEOGRUT0JWMXBPaGhXWEhYbEN6MXRRX2EyOTdSRXdjVFBkRmtXcm9xWF95eFNyNVVPMGZkZ3Jldw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "輝達推新一代全液冷資料中心，封閉迴路挑戰 AI 零用水&nbsp;&nbsp;TechNews 科技新報"
         },
         {
             "title": "CSE強淞精密流體控制與潔淨管路系統 衛生級、製藥級、AI水冷散熱通吃 ｜ 食品餐飲 ｜ 商情",
@@ -91,24 +91,30 @@
             "description": "CSE強淞精密流體控制與潔淨管路系統 衛生級、製藥級、AI水冷散熱通吃 | 食品餐飲 | 商情&nbsp;&nbsp;經濟日報"
         },
         {
+            "title": "山也無線、海也無線！Asus活用背插技術打造「無線水冷」",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iS2xaM19pa1lEYkE2MjM2RnhRTEpQSXpMbmVXN2FncHY0Z2UzbnR1R0pMSTltNkdST1VaLUtRdU5kcjBVVjRnVVVFeG92bDY5bng2cTliQ1VaOVljeWhVU1VIbTdRMFBjVzRkQmF6ajdQcDFNWkFJdkZR?oc=5",
+            "pub_date": "6/24/26",
+            "description": "山也無線、海也無線！Asus活用背插技術打造「無線水冷」&nbsp;&nbsp;T客邦"
+        },
+        {
             "title": "隨着人工智能和高密度計算加速採用，數據中心液冷市場到2033年將達到292億美元｜ Persistence Market Research",
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalRCX3NnNEcybVFKdWo1OUVBMTVaSXc2NkRIM3RWbkVLWGZrNDQzZldBbjBtdjRtT1RlNzk0LW5MeExNQUZxWkVMa2dfN0pvYnJMdUw2QkFJRldaSVQ5MklRbjJrbWh1aUpYU2h4eVdUbk15U2RUNlRFMzdPTi1kRE5VOHNLUHE1VFZobWt0M29JSm1WaS12ckk1Mkd0Zw?oc=5",
             "pub_date": "6/9/26",
             "description": "隨着人工智能和高密度計算加速採用，數據中心液冷市場到2033年將達到292億美元| Persistence Market Research&nbsp;&nbsp;Moomoo"
-        },
-        {
-            "title": "Yongzhen Co., Ltd. (603381.SH): Actively advancing the application of flat extrusion technology in liquid cooling.",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEtlUXpqSVo5QVhLYTdxNkVDVV9vSFVpRVBXdnVjOHd0VmtJdk5XXzlWMFA0NC1HZGNab2g3dVFGMzVMMklVRVJ4ak9taUtYRkt1UElKejd0R2J3REM1WEh0R1R6WGJWRmFBam44WGxtcHp4Vk9mRVZFMC0xbjhMNzJsZW5uWEx6WmVTYk41ZXpzVFRPdXZUT1RtZFRXNDE0SUxSSjZTSQ?oc=5",
-            "pub_date": "6/23/26",
-            "description": "Yongzhen Co., Ltd. (603381.SH): Actively advancing the application of flat extrusion technology in liquid cooling.&nbsp;&nbsp;富途牛牛"
         }
     ],
     "CDU": [
         {
-            "title": "施耐德發表新型 CDU 可擴展至10MW 以上 全面支援新世代 AI 工廠",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lMS0zNkpZcGg5VkFFczdsQ0VzSHh2LW5GeERjaUdJWENTVEp5cGk2VHItRlhxMXB2WTIwcUZRTmhmRWlkRlhyYUpMUHN6clJwZXhDWlV30gFWQVVfeXFMTWUxLTM2SllwaDlWQUVzN2xDRXNIeHYtbkZ4RGNpR0lYQ1NUSnlwaTZUci1GWHExcHZZMjBxRlFOaGZFaWRGWHJhSkxQc3pyUnBleENaVXc?oc=5",
+            "title": "施耐德電機旗下 Motivair 發表新型 CDU 可擴展至 10MW 以上 全面支援新世代 AI 工廠",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCRlh6c2JDcEt3YlBQdWNKOWJCVG9UVC1Yemx0OFQwTmZka1NTUWhGekJmRnhBdFJFRVp5Uzl3eHp1OVdrbnFBZk1vWQ?oc=5",
             "pub_date": "6/23/26",
-            "description": "施耐德發表新型 CDU 可擴展至10MW 以上 全面支援新世代 AI 工廠&nbsp;&nbsp;UDN"
+            "description": "施耐德電機旗下 Motivair 發表新型 CDU 可擴展至 10MW 以上 全面支援新世代 AI 工廠&nbsp;&nbsp;iThome"
+        },
+        {
+            "title": "施耐德電機旗下 Motivair 發表新型 CDU 支援新世代 AI 工廠",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4SERDRXpwTkRxQ3VHTUpScG52dkd2YjRVcFotcmNSZi1SNk9ENm9ac084T2JURGJmVmhZT01qSDdYZ011clkyZFR2NVFBWnh1NExhdVFn0gFWQVVfeXFMUDhIRENFenBORHFDdUdNSlJwbnZ2R3ZiNFVwWi1yY1JmLVI2T0Q2b1pzTzhPYlREYmZWaFlPTWpIN1hnTXVyWTJkVHY1UUFaeHU0TGF1UWc?oc=5",
+            "pub_date": "6/23/26",
+            "description": "施耐德電機旗下 Motivair 發表新型 CDU 支援新世代 AI 工廠&nbsp;&nbsp;UDN"
         },
         {
             "title": "施耐德電機Motivair發表新CDU 支援新世代GW級AI工廠需求",
@@ -123,16 +129,10 @@
             "description": "施耐德電機旗下Motivair推新型CDU 單台2.5MW可串聯擴充至10MW 瞄準AI資料中心模組化商機&nbsp;&nbsp;優分析UAnalyze"
         },
         {
-            "title": "施耐德電機旗下 Motivair 發表新型 CDU 支援新世代 AI 工廠",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4SERDRXpwTkRxQ3VHTUpScG52dkd2YjRVcFotcmNSZi1SNk9ENm9ac084T2JURGJmVmhZT01qSDdYZ011clkyZFR2NVFBWnh1NExhdVFn0gFWQVVfeXFMUDhIRENFenBORHFDdUdNSlJwbnZ2R3ZiNFVwWi1yY1JmLVI2T0Q2b1pzTzhPYlREYmZWaFlPTWpIN1hnTXVyWTJkVHY1UUFaeHU0TGF1UWc?oc=5",
+            "title": "【股市領航】黃敏碩：瑞聲科技液冷CDU規模化量產 有望邁向雙核驅動- 投資",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tM1FBV1lGZldkU1JNUTZqSm9kY1FqVEpla2JwVmR6Qi1TWWVUdFgxSUFvY2RkdVYxN0lRVXV3UEIxUjdpOW52XzNHQlhBbnJkdXhlbjF5TFB0VWJDbFZnTWlDb3VRRU9qMEh4eU5jMmYwM0g1WWZz?oc=5",
             "pub_date": "6/23/26",
-            "description": "施耐德電機旗下 Motivair 發表新型 CDU 支援新世代 AI 工廠&nbsp;&nbsp;UDN"
-        },
-        {
-            "title": "《COMPUTEX》大井泵浦秀CDU、浸沒式方案- 新聞",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWFpV3lhY2ljNnZGcnpuZXY0RVdkQ0tPSnNOOW5udm9WejJaZjcyWkV1UGxsYTZZMEFUQ2FsdmFIelZXWVJwZFNnb3Nwb3hUd1pBdDZPeUZKWHg1VTE5VDlSNEZheHQ1U2NTWlRmSUl4VFhLRnZGZVhSTUI2cDhfMGdxLVBGRk96N3hFQ1RGRWlmdw?oc=5",
-            "pub_date": "6/2/26",
-            "description": "《COMPUTEX》大井泵浦秀CDU、浸沒式方案- 新聞&nbsp;&nbsp;MoneyDJ"
+            "description": "【股市領航】黃敏碩：瑞聲科技液冷CDU規模化量產 有望邁向雙核驅動- 投資 - 香港文匯網&nbsp;&nbsp;香港文匯網"
         }
     ],
     "冷卻板": [
@@ -193,74 +193,74 @@
             "description": "奇鋐沈慶行2原因看壞「微通道蓋板」MCL 散熱 不憂水冷板將被取代&nbsp;&nbsp;經濟日報"
         },
         {
-            "title": "從實驗室走向國際！博士創業家領軍「科雁」，用純水負壓技術挑戰 AI 散熱難題",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bGVpdThNblRGYk5QZVJCUFNFdGViQlU0eGdlX2xSM2dudzdmaHhmTWZNOVdDbTctRzNoaFIySjhnbk1MSXloUUd1MFVvLVRid0h4eGVrc0c?oc=5",
-            "pub_date": "5/18/26",
-            "description": "從實驗室走向國際！博士創業家領軍「科雁」，用純水負壓技術挑戰 AI 散熱難題&nbsp;&nbsp;Meet創業小聚"
+            "title": "3653 健策",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zd0ZOZFlCLUNlZUZ5UzZuYUJxRkk1VVJKNmt2SFVKMVJBR0JiTkh0YWUtRFNtcTZ2dlJWVF9iSGNCMkdKNkJBU01WVm9LVmxKYkJQNDg4dEs?oc=5",
+            "pub_date": "1/13/26",
+            "description": "3653 健策 - 老實說，散熱族群炒了一整年，很多都已經 Price-in 了... - 股市爆料同學會&nbsp;&nbsp;CMoney"
         }
     ],
     "Data Center": [
         {
-            "title": "數據中心電力市場正成爲一項高增長的基礎設施投資機會，預計2033年前複合年增長率將達到15.7%：Grand View Research",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUkwcGdJZnVTZWJtc0JiQVJ4TkI4RTdIV3d2Y2RzT3BsenY0elBkNl9saDBPRUF2MVMtRHRDeThUaTQ5OGFvY2RPN3pKdWJpYkhaVkY4MkRLcENwU0NXdE5TeEtoZEVEOXpMd3NmbjljOTJ0OUQtY3dyaWJ5U1hlZmdnUEk4N2NKOW5Ha2tOTDN6SkdBVENRZVdlTklMVmdWQUpjMS1PY1JPUkF0Wm5XTw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "數據中心電力市場正成爲一項高增長的基礎設施投資機會，預計2033年前複合年增長率將達到15.7%：Grand View Research&nbsp;&nbsp;Moomoo"
+            "title": "Global X Data Center & Digital Tokenized ETF (Ondo) (DTCRon) 價格、圖表、市值及其他指標",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHpWbjlGU3Q0SllEZGhPMTJ3OFRhNGVoc1YtMlJGZjVwQkdhVUcxLWg2aXJ1ZjFNN3FLeWwyZlZVcjh4TUw1clJtWVBaRHZJZ0J2ZUU1YTJMV0lLYzF0empWc28wWW9zd1RaRUtoQXZ2QVh2UGFyQ2hPWWRrRDRiS19seFFMUGh3cVk2WDdnc3RSRWhMVnc?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Global X Data Center & Digital Tokenized ETF (Ondo) (DTCRon) 價格、圖表、市值及其他指標&nbsp;&nbsp;CoinMarketCap"
         },
         {
-            "title": "輝達推新一代全液冷資料中心，封閉迴路挑戰 AI 零用水",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDdUUHhaUkVaazFWVHo0eEZja3JlVDNobXpCZWVNQmo4eFJ0X2J3Ung0X1FsZ0ZfTnY0VkpqaFJ5dlZNcU13TVhVd1FXbE85VGotT01iOVpSUWRQZ3JRcXRJdjRyTTZEOGRUT0JWMXBPaGhXWEhYbEN6MXRRX2EyOTdSRXdjVFBkRmtXcm9xWF95eFNyNVVPMGZkZ3Jldw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "輝達推新一代全液冷資料中心，封閉迴路挑戰 AI 零用水&nbsp;&nbsp;TechNews 科技新報"
+            "title": "仁寶電腦深化AI基礎建設布局 以垂直整合搶攻全球AI資料中心商機",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vcDV5a3I2OEhXaE9xNXFrVVMwZGpSQVc2MGdmSXpIV3pYNENWYVQtUmwtTWhySm1HWkF5RjYxZHRYLURfU0o4N3VLWQ?oc=5",
+            "pub_date": "6/24/26",
+            "description": "仁寶電腦深化AI基礎建設布局 以垂直整合搶攻全球AI資料中心商機&nbsp;&nbsp;iThome"
         },
         {
-            "title": "LPDDR6演進路線直指資料中心",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3BpWUlUay00MXZqX2xIdDJiOVIwam9zNE1SMmdBVEFBbUE5dUoxX1F3Tkl3Y1hBZHkwanUyMENGa25xMXFURjZCRVg1dkFEWEdRMG5qSTZERkY3U2luQXM0enV3aFJ3clk2N0Fxa0ZBaXJQT0RTcE1RTEx3RGVpcFViSzd3QQ?oc=5",
-            "pub_date": "6/23/26",
-            "description": "LPDDR6演進路線直指資料中心&nbsp;&nbsp;電子工程專輯"
+            "title": "Sunrun Stock Surges 25% on Tesla AI Data-Center Tie-Up",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlLenZ1UFB2NUg4aWpFaWNQdWtHY3RDM3BPQlQ3YkJ2Q1dDVkJ5eW44ekZOcGp6emhfcE5NR09zeHQxdWZRTHhtZ0NfS244dkUyMUIxcWlPRmFMSzdTak54eERkYWppcVZKQzR5VjBfSFVnVXJhZHZ6a0lXLVNMZmZPREdNOWp3eEp5cFJxV0g0aE5PNlZSdmJ1R09Cdw?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Sunrun Stock Surges 25% on Tesla AI Data-Center Tie-Up&nbsp;&nbsp;Moomoo"
         },
         {
-            "title": "Supermicro 正式推出以 NVIDIA Vera Rubin NVL4 為核心的端對端 DCBBS 藍圖，憑藉原生 FP64 性能，融合 HPC 與 AI 基建",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrQTYzWGJCaTVXTkJIUWlPdmUxNzUyRXZYUTVDVTNSN25MMEVqRUl0VW5Yc2JPMk5ENFgtZWNqTk5JRFM0elFvM2JKb08ta2N6S2hYRjFoMVhUMFpw0gFiQVVfeXFMTUlkYWxxVXpFeFZ1UUlFRkhxX3VDV2cxdjNWcGtYZXVnQW1iLXg2c0p1ekVFQWV3VDEzck9aZ0ljRnhWcjZyS2g1UTVnWDRqQThKLUVFWUpYRjc5c2ZpVUoyUFE?oc=5",
-            "pub_date": "6/23/26",
-            "description": "Supermicro 正式推出以 NVIDIA Vera Rubin NVL4 為核心的端對端 DCBBS 藍圖，憑藉原生 FP64 性能，融合 HPC 與 AI 基建&nbsp;&nbsp;經濟日報"
+            "title": "日經指數首破六萬八千點 揭大賺資料中心財日企名單",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdnJobTVibjZFNnRBQWNVNmRjMFM0MmQ3Ym1YVVFmazU4NXlhbXB1TkRpVVBDWHdxV0FyVElySEMta1N0X2cyRnI4cVRpNDh5clE4YVZ3dm1IZVR6ejJkeTBLZnZwc0JBeDhxT1NEd1Y1OWMtUnJDenN6aDExSlY3OA?oc=5",
+            "pub_date": "6/24/26",
+            "description": "日經指數首破六萬八千點 揭大賺資料中心財日企名單&nbsp;&nbsp;商周"
         },
         {
-            "title": "科技與能源巨頭的 20 年之約，微軟攜手雪佛龍打造全美最大共址天然氣 AI 資料中心 ｜ 科技新報",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdUlpeTY2NDVCQ182b0JDd3FpZlpOYUdfV3VVeUZLRjFubWFLQkpLTEpqU0xuakRtMWZFZWJPTlpoWmVxLU9YVWVxUENOUGNla3Q1NkZR?oc=5",
-            "pub_date": "6/23/26",
-            "description": "科技與能源巨頭的 20 年之約，微軟攜手雪佛龍打造全美最大共址天然氣 AI 資料中心 | 科技新報&nbsp;&nbsp;LINE TODAY"
+            "title": "非洲數據中心市場投資規模將於2031年達到87.6億，南非、肯尼亞、尼日利亞和埃及正成爲戰略性樞紐——Arizton",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNak4xNU1qeWM2NW9NeXlub0dFd1A0VERYb0l3Tk1Hbkp1cVNqU1ZoY2FOYTBXOUZndjV3dnZaanZEWkpCWVRTZHQ0aGRrVU45VWlYd3ltMUJ0NkRzUVVrMjduOVlNRDVIM2UwMDc4UnNEZndBTW9JTGRzN21uWHE5RzktNjJNdGV5Zlp4WEtVMEtfWkNBUWMzakxZMA?oc=5",
+            "pub_date": "6/24/26",
+            "description": "非洲數據中心市場投資規模將於2031年達到87.6億，南非、肯尼亞、尼日利亞和埃及正成爲戰略性樞紐——Arizton&nbsp;&nbsp;富途牛牛"
         }
     ],
     "資料中心": [
         {
-            "title": "NVIDIA、Google下一代基建敲定！AI資料中心進入高壓直流時代",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBicm00Mm53UGtPeHdac2xSU3ZGNDRzOEFSUjBIZDJLbjhXdzhEUVVWQ3pRMkJHUG44ajZRQ3FhSkhqVXdja1BnalRyaG9MZTQ?oc=5",
-            "pub_date": "6/20/26",
-            "description": "NVIDIA、Google下一代基建敲定！AI資料中心進入高壓直流時代&nbsp;&nbsp;news.cnyes.com"
-        },
-        {
-            "title": "孫正義不看好太空資料中心 AI競賽勝負將在未來幾年決定",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUX3dfYmw0ZGRNcU5qbjY2SEVBNEVFeVRLUEI1LVZ6Wi02cHVwMW8yWkl0RzJjY2JLR0EwdHc4bzhVUkZ2UHFsV1NlRzdHSmkz0gFWQVVfeXFMUG1iNHNFeVJQV3NOY044bTFuT2FYTGtQV0NRNk1ZSU9aeXBXUzJHanpqa2ZFd3Brc18xYVY3ZV9mR0V1aHhNYmN0NW1uSEUya3dVTVpScnc?oc=5",
+            "title": "輝達推新全液冷資料中心，封閉迴路挑戰 AI 零用水",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDdUUHhaUkVaazFWVHo0eEZja3JlVDNobXpCZWVNQmo4eFJ0X2J3Ung0X1FsZ0ZfTnY0VkpqaFJ5dlZNcU13TVhVd1FXbE85VGotT01iOVpSUWRQZ3JRcXRJdjRyTTZEOGRUT0JWMXBPaGhXWEhYbEN6MXRRX2EyOTdSRXdjVFBkRmtXcm9xWF95eFNyNVVPMGZkZ3Jldw?oc=5",
             "pub_date": "6/23/26",
-            "description": "孫正義不看好太空資料中心 AI競賽勝負將在未來幾年決定&nbsp;&nbsp;UDN"
+            "description": "輝達推新全液冷資料中心，封閉迴路挑戰 AI 零用水&nbsp;&nbsp;TechNews 科技新報"
         },
         {
-            "title": "微軟AI資料中心找上雪佛龍 簽20年供氣協議",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ERUV1MWx5ek5WMTZ6YkgxNUtCUFpLMnl5UFFWZjM0N2ZlaE9VZGJIczByTnFuNWVsLUk0bVFBUDB1X3dza0dPMVJCOEdobm8?oc=5",
-            "pub_date": "6/22/26",
-            "description": "微軟AI資料中心找上雪佛龍 簽20年供氣協議&nbsp;&nbsp;news.cnyes.com"
+            "title": "黃仁勳：國家安全優先 走私晶片打造AI資料中心「是條死路」",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EamlnZk1ScWNmWHF5aXJoZzVSRGZSUW05bHVGMDdNMFl4WU1sNmhKZlBtM0V4TTZHVFBLbmVzSGtaX3FZSkRJYnRvQnRYeTQ?oc=5",
+            "pub_date": "6/24/26",
+            "description": "黃仁勳：國家安全優先 走私晶片打造AI資料中心「是條死路」&nbsp;&nbsp;news.cnyes.com"
         },
         {
-            "title": "AI 高燒燒到電力線：微軟「離網」超級資料中心點火，推動能源設備巨頭坦然迎戰雜音",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUU5NbmtoamhzVUtZa0FMYmYyUUt5OGJSWFVHME1tUTZKdnB5SUtBYmpVUFVqU2gyTEp4bHBrX2wxV0JYbVlQZnR2anJDN3YwTzlXQkpGdUhMU2x6enZUeEhybl9pZThsYWhDdC1obEcwZUNxV3NnRFU4OHNmTlVvTTVXM2lXTUcwUlJMMm13?oc=5",
-            "pub_date": "6/23/26",
-            "description": "AI 高燒燒到電力線：微軟「離網」超級資料中心點火，推動能源設備巨頭坦然迎戰雜音&nbsp;&nbsp;CMoney投資網誌"
+            "title": "UPS從資料中心走向個人端 施耐德電機提前布局AI時代電力解方",
+            "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOcnZ0TGJYdGVhdFYzUzR2bmk3ZEJDc3Y5UEdKY3NkNzIwRDk5RDI1VEYxMVpieERPM0FlNXFjS1oxTFNYOWhNOXFEcFZROS1DZUw5ck04Mlk2VlhJNzZ2UE0zOHFxbVdpZlJUWWowUXZoUXVSUWxld3pzdlVPd3VzM0lvazdMV0hWbnZaQi1Gb3FXZUs1Qm94bFYxSU9WdTZvUTdLVTVERzZEanREMTlabWxMQ1RjSnVPdVhNRzM2b2daY0xUSTlycmNZNE8yTzlzS3JjSnJlTkhYSnpxTlFYS3M3Y2tPVk5rUFdUSXpSMHRpcUdaR0ozMGIwQzJGWmJsZzQ2cGxZLXI1enRXRjNGanBrTkdwQU01RGpRb1dlSDgzMTZJY2tkTkVCQkI0bFhZemNNOThIUzBpR084cC1YSG5QcGxLSHhVLXNMMnpJTG9WQ24zWk50dzk0N01pb0V4R3FuOWVMc0p0ckdvRHhsRWJicDhpbFVWMnFEaDR1ak1TZDNMcVkw?oc=5",
+            "pub_date": "6/24/26",
+            "description": "UPS從資料中心走向個人端 施耐德電機提前布局AI時代電力解方&nbsp;&nbsp;Yahoo新聞"
         },
         {
-            "title": "科技與能源巨頭的 20 年之約，微軟攜手雪佛龍打造全美最大共址天然氣 AI 資料中心",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb3hpSUU1clJpRWJWM1dHWDhxVDF5QW5iTzNZNTZkc2IyUElnQmJfY0NFdHNlZlNKTTNsZGZudkV6YmJMS2RQak5yZVVjQnZYb0NSVzRHY2E5SlhLTDR5ZjZNNXpOZjJmZGF3Z3FDelJUSG1LUE1WcEJxbkRNams0ZzFxWEhVLUxKNV9wdnpZOGNQcmc1aVpqeS1FWmZaNmZMdk53Sg?oc=5",
-            "pub_date": "6/23/26",
-            "description": "科技與能源巨頭的 20 年之約，微軟攜手雪佛龍打造全美最大共址天然氣 AI 資料中心&nbsp;&nbsp;TechNews 科技新報"
+            "title": "高通搶攻AI資料中心晶片！2029年營收上看150億美元 盤後股價飆漲16%",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxQTIyMkZKOHNqWEM2ODhmRTNyc1lwa2pRSmoxelc2QTBuSWVsRVcxbHFhUWh2MVppbDYzamhRbHJ2akFNb1BaYy1YTXY3dHFk?oc=5",
+            "pub_date": "6/24/26",
+            "description": "高通搶攻AI資料中心晶片！2029年營收上看150億美元 盤後股價飆漲16%&nbsp;&nbsp;UDN"
+        },
+        {
+            "title": "高通斥資39億美元收購Modular 強化AI軟體與資料中心布局",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2SnBrNGJfY2dQQVBZZXJJaU8tR2RHTHNLQlFJaEJWUWNSWnZLYmtDaEk0VWUtUlFyNm1kU0Z4MUZMZVFVU2czM1BnY1p4S2M?oc=5",
+            "pub_date": "6/24/26",
+            "description": "高通斥資39億美元收購Modular 強化AI軟體與資料中心布局&nbsp;&nbsp;news.cnyes.com"
         }
     ],
     "PUE": [
@@ -283,10 +283,10 @@
             "description": "蓋AI資料中心，電只是入場券？真正燒錢的瓶頸藏在這個關鍵－科技新報TechNews&nbsp;&nbsp;商周"
         },
         {
-            "title": "亞太資料中心協會推SDIA永續協議，加速資料中心向低碳與韌性轉型",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZXzZWSkJyVmZCYW1QcDZRRXUxa0NIMkpXMm9zT3J3OWpRYjlOcWNYSkVKTlBwazQtYWhWZnZEVzQ2ZVQ2eFk0WTlrSmZHUQ?oc=5",
-            "pub_date": "4/1/26",
-            "description": "亞太資料中心協會推SDIA永續協議，加速資料中心向低碳與韌性轉型&nbsp;&nbsp;iThome"
+            "title": "聯發科啟用PUE1.1的高能效AI研發資料中心，以浸沒式冷卻與再生能源打造永續算力",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xZFRqTy1RSnliYVlCcXJNV1pBRHlrSXpQS3JRTnE2eFpzTXk5SHhpQXVXMnlGTUVvRU9YV0hnVC1aX2tqTGMtclM4NGFzUQ?oc=5",
+            "pub_date": "5/7/26",
+            "description": "聯發科啟用PUE1.1的高能效AI研發資料中心，以浸沒式冷卻與再生能源打造永續算力&nbsp;&nbsp;iThome"
         },
         {
             "title": "防AI吞電太猛！大型IDC能源使用效率標準出爐 經濟部明起全面納管",
@@ -297,34 +297,34 @@
     ],
     "AWS": [
         {
-            "title": "AWS更新AI助理Amazon Quick，新增自主代理與跨企業資料來源查詢",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RMFVMWkVQSV9MZXFydE1HNV9IbFo2d1NIVGR6eENsRlFuZUpIdk5ZVXJvRlViNVNwdHpIRkZXMHduS1c1UGgyeEhLRmZmZw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "AWS更新AI助理Amazon Quick，新增自主代理與跨企業資料來源查詢&nbsp;&nbsp;iThome"
+            "title": "伊雲谷獲AWS代理AI服務認證- 日報",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1VmZFM1VNMGtmZ2dnLXN4czNwdUdNU2wzWmVLXzljSmlDWndPb2JXSTdfR0VBa0FsanFrUnFCa0ZtamlCVG1xSUV6cVlrTXE5ZHhVamVGUGxYWVlnMzcw?oc=5",
+            "pub_date": "6/24/26",
+            "description": "伊雲谷獲AWS代理AI服務認證- 日報&nbsp;&nbsp;工商時報"
         },
         {
-            "title": "AWS｜Agentic AI成企業新一代數碼勞動力 落地關鍵在五大維度",
-            "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPY1JGbVRCTFpNOVBUSGdaT0t1X1BaakgzdC0wNXNGSWxIT3YzUmZnSjNwM2J3eWFGczNuMkM1TXB2TWlvMWJETW9GZWdQWXJBcllPV1dKYk9iUG93S20yaXgzRk5PbndhV2lyd3JOR25SY1N2enFZeWctVkMyeWk0OGVBLVFOTXRVbjA0amN0V1o2bXVUSDJyd2lKdjFjWUxibnRHb3pVZzNOVTVKd202Ym03SDktdHFZM0xZLWc3MzRYdF9jeWdSbzJ2dEJ0Z2ZYdkVZT2JVWXlIVnVvQ1kxZ2pSTm9hRVQxT2lqSWZhdEhsQTRjWXBER0lWeFV4bUdVNTdtMGpjbU50SGlMQkpPWURXYW81ZGl3WmNoQjVaWU9oS2hwV1kwc19NNnlLN0w4UFY1ZHhUV3QtNHFNTUg0ZkxqbEdXdC1KTnhrTmhzSzRYMDM0dzJ5U2RxREVyMk43NWVLZnFqRDM3MGtu?oc=5",
-            "pub_date": "6/23/26",
-            "description": "AWS｜Agentic AI成企業新一代數碼勞動力 落地關鍵在五大維度&nbsp;&nbsp;香港經濟日報HKET"
+            "title": "伊雲谷取得 AWS AI Competency 「代理式 AI 顧問服務」認證，助企業釋放 AI 應用商業價值",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82VzcwWXZhUC1rZ2ZvcFpHWm8tMHVVdG5WcC1Bb01tamN0VXNZSjJzLWxMeE1YckhtZjRwUkFjbTc0alJKeUpoeHgxMA?oc=5",
+            "pub_date": "6/24/26",
+            "description": "伊雲谷取得 AWS AI Competency 「代理式 AI 顧問服務」認證，助企業釋放 AI 應用商業價值&nbsp;&nbsp;iThome"
         },
         {
-            "title": "AWS訂單出貨爆發！「PCB龍頭」5月獲利暴增近3倍蘋果摺疊機、1.6T產品助攻目標價看至660元",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QZk9xV1NMUXFPZGphQnlhS1E4OWR3Rl9uSUF0dWx6eXV3cTJJUl8xQ09DTVR0NkZsT2FjcXR5RWREYjV0S1hRXzd6cw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "AWS訂單出貨爆發！「PCB龍頭」5月獲利暴增近3倍蘋果摺疊機、1.6T產品助攻目標價看至660元&nbsp;&nbsp;FTNN 新聞"
+            "title": "AWS 執行長揭露 AI 將改變半數白領工作 強調並非全面取代而是職能轉型",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByc0JyUzRBWmdzZFVKOTY0OHlrR1hQbkxDeW9NQ1NEdTYyZ2l3dTI5TzlPcTljOVV1VjFIbTQtdGpheDVxLVBFZVJYaDhIa1dpWlpScE5R?oc=5",
+            "pub_date": "6/24/26",
+            "description": "AWS 執行長揭露 AI 將改變半數白領工作 強調並非全面取代而是職能轉型&nbsp;&nbsp;Business Insider Taiwan"
         },
         {
-            "title": "AWS一站式平台Amazon Bedrock AgentCore推出多項新功能",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zZ0xwYWtOV3E5Z1Q1dGFKZHl3V1dmVVpBNDU3ZDVydm4yUnVISmJ0RmNOc2lIb3pteVNyc3lUUC1mT1REUV81enRhRHMtU0ZkbUE?oc=5",
-            "pub_date": "6/23/26",
-            "description": "AWS一站式平台Amazon Bedrock AgentCore推出多項新功能&nbsp;&nbsp;中華新聞雲／中華日報"
+            "title": "伊雲谷積極布局代理式AI，已取得AWS認證",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTczT1JfU1FaV3dJSENET1JoTkRzRUNRTUNUUHlINC1HTjVaeGtKWTRkbkdTejBYZ2lEM2V1V0o5SlptaHpVaUlweFQ5MndFSEZMeC04SnRhSmlLOFlyZm9rMTNhdlo0WHp1OGdxVktjLWJJTzRKdjA1aldadFVqXzlDUHVIcWJhUTZNV05RcU1Udw?oc=5",
+            "pub_date": "6/24/26",
+            "description": "伊雲谷積極布局代理式AI，已取得AWS認證&nbsp;&nbsp;MoneyDJ"
         },
         {
-            "title": "AWS ASIC伺服器量產在即！ 散熱、組裝、滑軌供應鏈摩拳擦掌",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0pLYTFHQjdNR3p4UFBwU01ma1ZyRFYwZDBHeHhpOVgzRnZEcXBUSVJ5WTl5cVZJT0xOb0dXU0ZobERrT2p4Zm5aNWltaENvMUR2RjEySGczRHB2OXk0VG9UUDU3aHU3LXh1aDlEWElXSlVtMEp6a09MWTloa3ZvSHNNc1VBQW9MZTliTlVn?oc=5",
-            "pub_date": "6/22/26",
-            "description": "AWS ASIC伺服器量產在即！ 散熱、組裝、滑軌供應鏈摩拳擦掌&nbsp;&nbsp;DIGITIMES"
+            "title": "伊雲谷獲AWS認證 續推企業AI應用商機",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16dFFRakNfekhXZWdoLU9vanhScE9zd29qNmtPT0haYVdSRkV1X1ItS0JVOHlrYWExTUsxNjROcXZrSlBnb0RJWFZvaEU5b3NEcUhMQVF6bmdQbDNycWo2dGY1VTfSAWRBVV95cUxNenRRUWpDX3pIV2VnaC1Pb2p4UnBPc3dvajZrT09IWmFXUkZFdV9SLUtCVTh5a2FhMU1LMTY0TnF2a0pQZ29ESVhWb2hFOW9zRHFITEFRem5nUGwzcnFqNnRmNVU3?oc=5",
+            "pub_date": "6/24/26",
+            "description": "伊雲谷獲AWS認證 續推企業AI應用商機&nbsp;&nbsp;自由財經"
         }
     ],
     "Google Cloud": [
@@ -335,68 +335,68 @@
             "description": "The cloud trifecta with NetApp, VMware, and Google Cloud&nbsp;&nbsp;NetApp"
         },
         {
-            "title": "谷歌(GOOGL.US)旗下Google Cloud與諾基亞(NOK.US)擴大合作將AI智能體嵌入網絡運維體系",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVc3d1g4UXNjOEZlUXZqcS1yT1VHRXROQ0VyNmoxbm1XUTRwNThPQzYxUDVTT1NsMGpPaHZ3X3BxRzJyQVdYXzgyRHppLURGSnJPS0N5dWFRZ1N5Z1AzQ2FUVURxLWlyXzBHOS1qV0ZMUkZhWVNQSkVhc3QyWWdlWEJlOXhFd2hfUVNZd1Q0dm4xUndvcE9aMnkxMDdlWWV6RUlhM0xB?oc=5",
-            "pub_date": "6/23/26",
-            "description": "谷歌(GOOGL.US)旗下Google Cloud與諾基亞(NOK.US)擴大合作將AI智能體嵌入網絡運維體系&nbsp;&nbsp;富途牛牛"
+            "title": "Agentic AI進入企業流程 鼎新數智攜手Google推Agent Space",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVHdqVVZJQm5QZHB5YW02b0hnWTlLQ0FFM0xXenM2dTFxMk90M3F6ejFoOTFnbGpPWG1PZjNIeXRLVDNRRUJJbWFHMmU3WDdXeURHMWZTY2w2cGFzSXp4VTFrYzNrZVZyLWNFc1VJdDJBZzRzX3l4ckFJcDZpZmdxcURiaEhSU2YyM3pZcmE3SEFNVjg5ak9VbFRIMDRVVXZLOEQ3MHptcw?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Agentic AI進入企業流程 鼎新數智攜手Google推Agent Space&nbsp;&nbsp;電子工程專輯"
         },
         {
-            "title": "AI超級雲時代瘋蓋機房：Google、Microsoft砸兆元衝刺雲端版圖 華爾街卻開始擔心「算力泡沫」",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOck1ka190RzEtLVUxZEZldndGekx6T3d3QUlHVG02NW1iVmxyUV8zdXFTekV0cXRDNWdjLWhlU2czVF9VMFZaNkNxQi1ZTlpsdnhsNlFfWHRBY2xFUFRyOVdhUlJsZlo5YnJMT0cxWG9xbmRFTjNJTnd6TDZVbW9lT1A1Y2gyVk9oLTFTc0Fn?oc=5",
-            "pub_date": "6/23/26",
-            "description": "AI超級雲時代瘋蓋機房：Google、Microsoft砸兆元衝刺雲端版圖 華爾街卻開始擔心「算力泡沫」&nbsp;&nbsp;CMoney投資網誌"
-        },
-        {
-            "title": "光禾感知獲選加入Google for Startups Cloud計畫 領先AI應用佈局 ｜ 產業動態 ｜ 商情",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QUE5YclY5TkY5eTd2NkVFQkUtMFRlT2dRNXQxV1J1SEliYzcwX25ZRXBSZFVXa3FDZnFaRXFIdW9FUTZRSlFDeWVDRU1LYjc1WDVJQW15X1VxRlE?oc=5",
-            "pub_date": "6/23/26",
-            "description": "光禾感知獲選加入Google for Startups Cloud計畫 領先AI應用佈局 | 產業動態 | 商情&nbsp;&nbsp;經濟日報"
+            "title": "Evogene完成與Google Cloud合作的重要里程碑 作者 Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RSzc5RWlWNzFZZUFIUFFtR0pGaVd4WXNyMEtXVFdfdnlDUXAzZkJDcndnbTV4S1BMWjZpZkxkTkR2MDMwZjN5cnVwNFJWWkVSREw2M2hHTXdrU3FHMWFNXzk0aDV0aFNtN1lFeDRHT3c?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Evogene完成與Google Cloud合作的重要里程碑 作者 Investing.com&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞"
         },
         {
             "title": "Google Cloud推資料代理新工具，讓自然語言分析深入資料庫與資料湖",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WbUZpOS0xdWFuM3J3NEdURmdLUWJDcDBwRWRuakR2NUg1aUplQ1k4MGpxZTVWTFFPQlhhMi1KT2YtRXlFRFNuRkdGQjlCUQ?oc=5",
             "pub_date": "6/17/26",
             "description": "Google Cloud推資料代理新工具，讓自然語言分析深入資料庫與資料湖&nbsp;&nbsp;iThome"
+        },
+        {
+            "title": "Google 解雇造 Workspace CLI 工程師，兩天後公司公告官方版",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rT2hPMUUwLXhCSDBoMWhOaVBtZVk5cDcyRXZvT2MzY3NHX0N3SVhBT3UyUFBvQ3M3MFNzU1BPVXZSbXM0QUx2dFhjc2hIYnBwbFltNE9DWVZqOW1PdWlQSWtIRExMYjFLajVsWjl4NlE?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Google 解雇造 Workspace CLI 工程師，兩天後公司公告官方版&nbsp;&nbsp;鏈新聞 ABMedia"
         }
     ],
     "Meta": [
         {
-            "title": "持續加碼穿戴裝置！Meta發表299美元入門智慧眼鏡 砍價搶客積極搶攻AI硬體入口",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfT1k5VzRMamFRUEJpdVZodjNNaW5RVjVlNnZ1c25mZUhLclk5bS0tNjE5M2lRMTl4Sl9aTEp3TzNONGJFUHFieDRhaw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "持續加碼穿戴裝置！Meta發表299美元入門智慧眼鏡 砍價搶客積極搶攻AI硬體入口&nbsp;&nbsp;news.cnyes.com"
+            "title": "高通新晶片「Dragonfly」簽訂 Meta！併購 AI 新創 Modular 揮軍資料中心",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NNUJ4QVgwbzJQM2NLUnVvVFBxc1E3S1hXVUpmZUlHekxzNGhlMmJHT0xiU2JPNjVDUWtWLWNnN2Q0R3pCQWtzUGkxdWdEa0hpaDhISm1WY1FubnU3b3c?oc=5",
+            "pub_date": "6/24/26",
+            "description": "高通新晶片「Dragonfly」簽訂 Meta！併購 AI 新創 Modular 揮軍資料中心&nbsp;&nbsp;TechNews 科技新報"
         },
         {
-            "title": "「印度經驗」真能幫助WhatsApp 成功變現？Meta 花 9 億美元投資＋挖角印度新創CRED 創辦人",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHQtcmw4WFplb3U2LXJLVnV4ZGZFbE85WTVYTmhWZHFfUVRLU1h6NExpSWJxOEJIaTkzd0pyVFVaVU5UZ0UwZjNRTmZOamE2RXRmSzctcHl5UHB1d2pwbkV0MEhOTlc0ZGJ1TXg2dG1KQjFod0RkSzRWamhiOUQ1RWRnZFdVS0dLSmRsdnphWHkwb1BkOENFeWM5dDdIaTlmb1JBNXl2Yy1HZw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "「印度經驗」真能幫助WhatsApp 成功變現？Meta 花 9 億美元投資＋挖角印度新創CRED 創辦人&nbsp;&nbsp;TechNews 科技新報"
+            "title": "Meta發表Meta Glasses AI眼鏡，首搭Muse Spark模型",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0cUNYb0twT2xYOFl6aGQwcTZMODJlNmFBUlBYSzZfS3FlMTBuOVdEVmZ0eDE5WkF1UkJUcFp1U0U2bURjLVlJTmhsSFc1dw?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Meta發表Meta Glasses AI眼鏡，首搭Muse Spark模型&nbsp;&nbsp;iThome自有品牌 Meta 眼鏡來了！內建最新 Meta AI、售價 299 美元起&nbsp;&nbsp;TechNews 科技新報Meta 新 AI眼鏡 萬元有找較上一代便宜逾二成 玉晶光躍大贏家&nbsp;&nbsp;UDN"
         },
         {
-            "title": "Meta投資印度金融新創9億美元 順勢延攬WhatsApp新掌門",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1UtUFVqeld0ZFVoSDNicy0tTHJnYnZ5U1pJc0dVbHZ0aUxRUVkzS0NhOFZ4SllvR3NBRW93ZEZxYndHdHBWU0cxaTRMNGhZS3BIMmI5eGhrdlRQbms5Z2JfUzNzMXZlYVk2ZUNCV2E2X2VjT2pzdUJuZ3VnS0hRYlJVeVlldUtxVzVYSHRHUklaY09adXlNYw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "Meta投資印度金融新創9億美元 順勢延攬WhatsApp新掌門&nbsp;&nbsp;DIGITIMES"
+            "title": "靠臉書與IG龐大流量引流！傳Meta打造預測平台Arena 未來不排除引入真實資金",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vRE1vb0VfZXl6S3FaYmpnSjVyaGtjbUMyeTJqaEdic1JZbndoNXNkZ0F3T01ndWJmeGJmaE1HNV9qWGdJSWxOVUtaRQ?oc=5",
+            "pub_date": "6/24/26",
+            "description": "靠臉書與IG龐大流量引流！傳Meta打造預測平台Arena 未來不排除引入真實資金&nbsp;&nbsp;news.cnyes.com"
         },
         {
-            "title": "Meta 投資印度公司9億美元 順勢挖到 WhatsApp 新掌門 ｜ 國際焦點 ｜ 國際",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53c3lRZ19fWjdLYlRobE1NbE5XcWZacXdjQmxsaUhHMHFaMTRGcXo1WTQ2UWRaRkYwV0U3NGZOenJOdEViU0dnajBwaDNwLUVxUDM2TF9YV3RnZw?oc=5",
-            "pub_date": "6/23/26",
-            "description": "Meta 投資印度公司9億美元 順勢挖到 WhatsApp 新掌門 | 國際焦點 | 國際&nbsp;&nbsp;經濟日報"
+            "title": "Meta要進軍預測市場？傳醞釀開發「Arena」程式",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSkdzb0xlQW92SWRoc3N6NEJ3bjl0c2kybnFZNm1WeUhXMjZYVGN6eEJlR0JOYVVWZHRtaTgta1RnNG55cmRoWXQwS3F0ZTZsQUl5UTNMT3FIMUZfVHcxMmdEZXhycGd5bEkxdFBDQ3ZDd0o0QjR4eHVUNzNVSDhnVDI5ejd5UmdUei1GaG1EbWRVUQ?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Meta要進軍預測市場？傳醞釀開發「Arena」程式&nbsp;&nbsp;MoneyDJ"
         },
         {
-            "title": "私人資料未加密？Meta內部工具爆資安疑慮AI模型訓練計畫急喊卡｜ 全球財經｜ 全球",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hNi1ma1VWLXZPSko4UlR4cE5JTDZOUllVaGJwRmMwOVhfUzFWREtoVWxXUm9TR082OVU2ZEZvZ3R6cWlVSEVyS3ZLR29mcm1E?oc=5",
-            "pub_date": "6/23/26",
-            "description": "私人資料未加密？Meta內部工具爆資安疑慮AI模型訓練計畫急喊卡| 全球財經| 全球&nbsp;&nbsp;UDNMeta員工滑鼠追蹤紀錄驚傳流出 緊急叫停相關計畫&nbsp;&nbsp;自由財經監控員工鍵盤、滑鼠訓練AI出包　Meta緊急喊停資料蒐集專案&nbsp;&nbsp;ETtoday新聞雲"
+            "title": "Meta 預測市場 App Arena 曝光！祖克伯親自指示開發，對標 Polymarket、Kalshi",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3NpNXNrWUdsVUp5MXNRNHJfaEwzRW1Qb0dxOWlxQko1T1VGTkpYRHFYSWFxSmVkR2FQUllFV3JwM2R4UmhEZnNVVkdiSjRlQTU0NWltcl8tMmdzcmVoN0pDOGp1Q2U3ZTdvVWg1NEt4eWRJdG5kalo5dzRNd3FhX1lQSEZLQmh4Tmtj?oc=5",
+            "pub_date": "6/24/26",
+            "description": "Meta 預測市場 App Arena 曝光！祖克伯親自指示開發，對標 Polymarket、Kalshi&nbsp;&nbsp;inside.com.tw"
         }
     ],
     "Wistron 緯創": [
         {
-            "title": "3231 緯創",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVLXo5NjdNWm1vdWV0YWV2VXZWWW1abl95Y1VqXzNVdnFabTVlSG1ka1dHaGE2Q29TdC1Ya0FEZ1dOVXk4cXA3QmM3ekhuNGVHVDItU1VjTDU?oc=5",
-            "pub_date": "4/21/26",
-            "description": "3231 緯創 - 查AI結果 緯創（Wistron）確實已經正式投入共同封裝光... - 股市爆料同學會&nbsp;&nbsp;CMoney"
+            "title": "AI 動能強勁！緯創擴大 AI 伺服器版圖、國巨高階產能利用率攀升",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13TFllQ0xpUFFPeEVFOUpnbEg5Z0MxZU5kektoc1JnQ1NfTmp1dkI1eEtHZnkwWDZJejdrV1JRVk1IaGxZR2RBWXNQd2dQNmFmd2pId212NTJ4UENkZmJFSmZEaTlrZTUxX0FfWkJxblQ3SHNiUlJV?oc=5",
+            "pub_date": "5/29/26",
+            "description": "AI 動能強勁！緯創擴大 AI 伺服器版圖、國巨高階產能利用率攀升&nbsp;&nbsp;TechNews 科技新報"
         },
         {
             "title": "【臺灣資安大會直擊】用AI對抗AI，緯創資通藍隊將資安事件回應速度從「小時」縮短至「分鐘」",
@@ -405,31 +405,25 @@
             "description": "【臺灣資安大會直擊】用AI對抗AI，緯創資通藍隊將資安事件回應速度從「小時」縮短至「分鐘」&nbsp;&nbsp;iThome"
         },
         {
-            "title": "AI伺服器為什麼「不會」步上電子業「毛三到四」後塵？緯創點出一大毛利護城河關鍵",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WdFAxYVZfLXN4cDk0VVkzaG1uWUt5NjVQekEwb2FqNUtja201X09LVmx1VEtMSVNnVzRPS1dZX0ZjbTZPWFNxdkVWUjU3YkV4UDlheE1FMzdKaExHN0taX01GdXRzX1J0OG82UA?oc=5",
-            "pub_date": "2/6/26",
-            "description": "AI伺服器為什麼「不會」步上電子業「毛三到四」後塵？緯創點出一大毛利護城河關鍵&nbsp;&nbsp;數位時代"
+            "title": "3231 緯創",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVLXo5NjdNWm1vdWV0YWV2VXZWWW1abl95Y1VqXzNVdnFabTVlSG1ka1dHaGE2Q29TdC1Ya0FEZ1dOVXk4cXA3QmM3ekhuNGVHVDItU1VjTDU?oc=5",
+            "pub_date": "4/21/26",
+            "description": "3231 緯創 - 查AI結果 緯創（Wistron）確實已經正式投入共同封裝光... - 股市爆料同學會&nbsp;&nbsp;CMoney"
         },
         {
-            "title": "美、越產能擴張支撐中長期成長，高盛看緯創 AI 伺服器動能續強",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paHVDLUFnVGxmZEJZaFNScEdVNHZZS05hQUswTmpJeURFMXNhcWcwOV8xYmFveEhDREN4Mzh2Q19xYjNwVjQ1QzROVVRXWnZveTdaRUZRSzBPeWl4UmxvMFN4cDdLWl9F?oc=5",
-            "pub_date": "6/16/26",
-            "description": "美、越產能擴張支撐中長期成長，高盛看緯創 AI 伺服器動能續強&nbsp;&nbsp;TechNews 科技新報"
+            "title": "AppWorks、緯創Demo Day登場：韓國新創湧現、台灣供應鏈成AI新創試驗場",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiN21ReWY5bVA4bTRGQTR6THhZT3JwOWpSY1p6aEExd3N3eWVFQ2VLMnVmSXB1SUZXeEVTbGJLOEYtQVpQVjdyWjZjSzhJU2ZsWnpvd3dzREc?oc=5",
+            "pub_date": "6/17/26",
+            "description": "AppWorks、緯創Demo Day登場：韓國新創湧現、台灣供應鏈成AI新創試驗場&nbsp;&nbsp;Meet創業小聚"
         },
         {
-            "title": "緯創明年網通迎大爆發 砸42億建置廠房、取得設備",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvT0V6RzNhNkVHMmZFS1p5ZkJncmFXQXRKN1ZaREtSWGktWjVzWHJmdkJXb0xQNXYxS3l5Ul8zeTNpTUFoYm51ci10WFFTeGc?oc=5",
-            "pub_date": "12/19/25",
-            "description": "緯創明年網通迎大爆發 砸42億建置廠房、取得設備&nbsp;&nbsp;news.cnyes.com"
+            "title": "緯創首季大賺3.06元創新高 加碼布局越南、美國高速產能",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtV3g1VEV6T3N0dndwQWtaQmd6ZFNxUWdBSVJWSVdXQVY1RWwya09zUkhSalZ5MlhxQkV4TDlhRG9ubkRESWNjci1NRkJWMTYtM3M5Y3BJMVh1MkhtQ2Rr0gFkQVVfeXFMTWtzVVd6X2RuWWhGelZyNHB4YTZrQVlUR2hNSk9DTjNyZ1ZnWm1RbVhWYnB2bkZiMUJpd2NUSDdwN0dNUXdyNGhYdVB2VVRzMHFjQWFkd2dnZ0JCb200MHNzcWVmaw?oc=5",
+            "pub_date": "5/8/26",
+            "description": "緯創首季大賺3.06元創新高 加碼布局越南、美國高速產能&nbsp;&nbsp;自由財經"
         }
     ],
     "Wiwynn 緯穎": [
-        {
-            "title": "創意電子攜手緯穎科技推動次世代超大規模 AI 晶片到系統級基礎架構",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16Rk9lR05tSjZXMEp3dGlMVC1YSllyTFNlQkl0b1RHbVlseHNxZFR2T1k4dVpjY2VabGVvcDNxM1V5bmZ4NjJtMzVMR0RoTk9JMWE3NF9nUGQzYkU?oc=5",
-            "pub_date": "5/4/26",
-            "description": "創意電子攜手緯穎科技推動次世代超大規模 AI 晶片到系統級基礎架構&nbsp;&nbsp;電子工程專輯"
-        },
         {
             "title": "AI 算力進入部署期：COMPUTEX 2026 看技嘉、英業達、緯穎如何打造可商業化的AI 基礎設施？",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbzZhV250MnNzeWM4QkcycVlQSHNfT2dDeXpJYXdsRnJKWnRTM05jVnkyT2laeVp6dlpfanJaM0xPMThvN3NBY2dyaGQwQ1Y3aWE2YmpuWHZuNEwyWWNYNnBDbTJEd1d1ME9kdTliWU83ajVzTFdr?oc=5",
@@ -437,10 +431,10 @@
             "description": "AI 算力進入部署期：COMPUTEX 2026 看技嘉、英業達、緯穎如何打造可商業化的AI 基礎設施？&nbsp;&nbsp;TechOrange 科技報橘"
         },
         {
-            "title": "「每年瓶頸都不一樣」緯穎董座談 AI 供應鏈瓶頸擴散，下一個風口在哪裡？",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56d2Q2UEdBRGFrWldZQXhfeVhlRl9Id19POGJTdG91T19Qb1h0TUdaNDhqRENKTTVPNXNWNUVVVzFzQkVDUnp5aFNWUmlDalJUQmxRQS1USi1lN183TFdUYkRDLVdiLXpVQ2FBd1JSZzZ0Mk0?oc=5",
-            "pub_date": "5/29/26",
-            "description": "「每年瓶頸都不一樣」緯穎董座談 AI 供應鏈瓶頸擴散，下一個風口在哪裡？&nbsp;&nbsp;鏈新聞 ABMedia"
+            "title": "創意電子攜手緯穎科技推動次世代超大規模 AI 晶片到系統級基礎架構",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16Rk9lR05tSjZXMEp3dGlMVC1YSllyTFNlQkl0b1RHbVlseHNxZFR2T1k4dVpjY2VabGVvcDNxM1V5bmZ4NjJtMzVMR0RoTk9JMWE3NF9nUGQzYkU?oc=5",
+            "pub_date": "5/4/26",
+            "description": "創意電子攜手緯穎科技推動次世代超大規模 AI 晶片到系統級基礎架構&nbsp;&nbsp;電子工程專輯"
         },
         {
             "title": "緯穎Q1獲利創同期高，全年伺服器出貨看雙位數增- 新聞",
@@ -449,10 +443,16 @@
             "description": "緯穎Q1獲利創同期高，全年伺服器出貨看雙位數增- 新聞&nbsp;&nbsp;MoneyDJ"
         },
         {
-            "title": "緯穎董座：AI瓶頸不只記憶體 供應緊張可能在這個時間緩解",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeTR4d2U5cG11WVNvWW5zc095dDZXZEpDczZvMGxOZnQ5RFFuTGwyclFxZGR1dUNQR1JjQlRUcHpwTU5WXzFta0RxaEViWkloSEVQSV9WTGRId9IBX0FVX3lxTE5EdVlxTUxWZjVGeU5aQ0YtOEowcUxLb3Z5bEN1UXo2LXR4MXo5UVF1cFNGRHd3Qk5QclQ2d25LT1BoWkpJTXFKTmw5NDZmQkhQNktWOFoxNjRjdnMwelBJ?oc=5",
-            "pub_date": "5/28/26",
-            "description": "緯穎董座：AI瓶頸不只記憶體 供應緊張可能在這個時間緩解&nbsp;&nbsp;經濟日報"
+            "title": "「每年瓶頸都不一樣」緯穎董座談 AI 供應鏈瓶頸擴散，下一個風口在哪裡？",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56d2Q2UEdBRGFrWldZQXhfeVhlRl9Id19POGJTdG91T19Qb1h0TUdaNDhqRENKTTVPNXNWNUVVVzFzQkVDUnp5aFNWUmlDalJUQmxRQS1USi1lN183TFdUYkRDLVdiLXpVQ2FBd1JSZzZ0Mk0?oc=5",
+            "pub_date": "5/29/26",
+            "description": "「每年瓶頸都不一樣」緯穎董座談 AI 供應鏈瓶頸擴散，下一個風口在哪裡？&nbsp;&nbsp;鏈新聞 ABMedia"
+        },
+        {
+            "title": "緯穎首季獲利優於預期，美系券商升評「首選股」",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mRGo0LU9RRHV1a21qNmZCNDRXNy1Ndmt0UlRORDltSWxyMUlxUi1rWGdLYUV0R0dSaHh0YzdtaURMaGJVT1piUldwb3NsMlpFLUI4UkxzckRuVXo5aE11Qg?oc=5",
+            "pub_date": "5/11/26",
+            "description": "緯穎首季獲利優於預期，美系券商升評「首選股」&nbsp;&nbsp;TechNews 科技新報"
         }
     ],
     "NVIDIA H100": [
@@ -469,10 +469,10 @@
             "description": "Nvidia揭露H100租金飆20％、A100漲15％！GPU短缺暴露AI基礎建設成長超越製造力&nbsp;&nbsp;CMoney"
         },
         {
-            "title": "數位黃金變「數位生菜」！輝達H100二手價驚見1.5折 竟是AI應用爆發前奏",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tSGJBcEtWUkhtakFha3dUbVNuREV6SFI2Z1N5ZmNxeThJUEt0RFRySmdjNWFVbGFrZWQ0cUpFZVlMVWtwbUNOQU9Oam5McU0?oc=5",
+            "title": "曾經高不可攀的H100 GPU，如今1.5折在平台出售，是什麼泡沫破了？",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WVEE2WWR4eHI3UmNKd1FhWEZmYklrc09HOUJsZ085QmNsZVpyUzFCalVqSWdoUGFJRDVLUXFNVTRCd010NWkydg?oc=5",
             "pub_date": "2/23/26",
-            "description": "數位黃金變「數位生菜」！輝達H100二手價驚見1.5折 竟是AI應用爆發前奏&nbsp;&nbsp;news.cnyes.com"
+            "description": "曾經高不可攀的H100 GPU，如今1.5折在平台出售，是什麼泡沫破了？&nbsp;&nbsp;鉅亨號"
         },
         {
             "title": "邊跑AI邊養魚？挪威打造最強超級電腦Olivia，用NVIDIA H100 廢熱溫暖鮭魚",
@@ -481,30 +481,18 @@
             "description": "邊跑AI邊養魚？挪威打造最強超級電腦Olivia，用NVIDIA H100 廢熱溫暖鮭魚&nbsp;&nbsp;T客邦"
         },
         {
-            "title": "川普放行 H200 出口中國！輝達 NVIDIA H200 全解析：效能規格、競品比較！",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR25keWcyVVlrVEdObHV3NFFJWDhFWC1kQXhuNWxYX0I5TjZLWUpSclZURGtSSmZpMEt0Sk9tbXFqdkZzbWZ0aUtlRUVtNEJhNlFHWmprRk5QSkxHSTNOMlBPR3lTWDk1SldqUkZBM3RoM1J2SExHclRzekN5a3o4cDNYM0JCSm5QblRkM2l0U0F6QXIyMHc?oc=5",
-            "pub_date": "12/9/25",
-            "description": "川普放行 H200 出口中國！輝達 NVIDIA H200 全解析：效能規格、競品比較！&nbsp;&nbsp;StockFeel 股感"
+            "title": "美超微如何賣 Nvidia 晶片到中國？彭博揭露偽造出口檔案、空殼伺服器走私細節",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMF9UQ0ZLUzFSSXBJMDJnUUI1TG52SkI0VnhVZ3plUmNUT2JHZEp0Uld3aVBMNngxRUJTZTIxMk5yUU80QVJlZmE2MzRlMm5IRkdmMUpxQWdGRlB2OTM3LVBWakhuU2VFblBNV1lKczFBMUFETTRmeXNGeWpkTlJqcHZjZW5CQUZnSld4cndpc1RQOFVOWlVzVmc3MGkyeGxEd0lnWXF3ZlpLc3Z3ajh6OGxR?oc=5",
+            "pub_date": "4/10/26",
+            "description": "美超微如何賣 Nvidia 晶片到中國？彭博揭露偽造出口檔案、空殼伺服器走私細節&nbsp;&nbsp;動區動趨"
         }
     ],
     "H200": [
         {
-            "title": "輝達晶片管制爆漏洞！「解放軍搖籃」1招瞄準H200算力 恐加速武器開發",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CcW9FVWZ6aGxzcFpSNUhSU28tWklMX0N4QWZlMDI3M21GdXRiUzB3dS1icU5jUWlIdlRob2FvaFMxT2d2eEVYNDdOeGtwelVp0gFWQVVfeXFMTkd0cVVxbjg4SjR5TENNZWdocXBlSDNTcG9PTU15a3JzdHNraFl4Ty1lR1d6dVlDTXNCT2h5QzJvRU1SdFRRYXNDVzVkSVZzQ0xFNE5NNXc?oc=5",
-            "pub_date": "6/2/26",
-            "description": "輝達晶片管制爆漏洞！「解放軍搖籃」1招瞄準H200算力 恐加速武器開發&nbsp;&nbsp;UDN"
-        },
-        {
-            "title": "高科大建全校AI平台 16張H200算力人人可用",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd29DSHpRX2prZk1ob2JWczExRlozd0hxYlpmY1h4WmhDY05nLVZiU3hzcUd0UVFNVEZJckhpSlFmSVJaeW8xbGluWk9QTWxaQUlQWTlpUGVxX1RMZ1JpNkx4LUxReGc3eVM1YUdhWmIxMkhIRjNvUW84aXUxYk9MVXNFWG9LN0k0Vzl3?oc=5",
-            "pub_date": "6/23/26",
-            "description": "高科大建全校AI平台 16張H200算力人人可用 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞"
-        },
-        {
-            "title": "獲捐16張H200顯示卡！高科大超級電腦級算力 打造AI人才中心",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlX05PcU41V2VFUUJEU1RMOHhIamZtQlZXTWpaVjk4M2NUSE5OcnJQdUQ5aDhYTTczQWN1azZVYjVKSFBOajVnU2M1RmFXckdrQ0dNXzZzZEw2UnpzOUlxdXJYaTJINW9oTm5Ga3VB?oc=5",
-            "pub_date": "6/22/26",
-            "description": "獲捐16張H200顯示卡！高科大超級電腦級算力 打造AI人才中心&nbsp;&nbsp;中時新聞網"
+            "title": "輝達股東會／H200獲准出口中國但仍未變現　黃仁勳：美國安全優先",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BY2xDaEJ0Z2YxNG9PVWFFaW1jQUVsSUtDV3dVWGljZHlqU255NTFFZ0U3cW5RVThZellibWVneHY0YndlX1BLSU11MjjSAVJBVV95cUxPdEdSdmxyZjVLRURUVjBBN2h4QTgteWxVa2wyRTlLejZuUFJSdDhHal9ZUVJONXBmS0VabFNRaVJHY21FOUV5RkpXdm45Q3A1eFp3?oc=5",
+            "pub_date": "6/24/26",
+            "description": "輝達股東會／H200獲准出口中國但仍未變現　黃仁勳：美國安全優先&nbsp;&nbsp;NOWnews今日新聞"
         },
         {
             "title": "美國傳允許10家中國公司採買Nvidia H200晶片，1家最多7.5萬顆",
@@ -517,6 +505,18 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PNlhzZVp2Vmtkb0tsdjNjbWhReUhqM1RlNmlhdkNQZ2tQdlNKV0ZNMGtrQmpvZlhGQ0d5YndkNXV0aFI2RTRLMncxTHk0Tnc?oc=5",
             "pub_date": "4/23/26",
             "description": "為何還沒賣？輝達H200未出貨中國 卡在政策這一關&nbsp;&nbsp;news.cnyes.com"
+        },
+        {
+            "title": "獲捐16張H200顯示卡！高科大超級電腦級算力 打造AI人才中心",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlX05PcU41V2VFUUJEU1RMOHhIamZtQlZXTWpaVjk4M2NUSE5OcnJQdUQ5aDhYTTczQWN1azZVYjVKSFBOajVnU2M1RmFXckdrQ0dNXzZzZEw2UnpzOUlxdXJYaTJINW9oTm5Ga3VB?oc=5",
+            "pub_date": "6/22/26",
+            "description": "獲捐16張H200顯示卡！高科大超級電腦級算力 打造AI人才中心&nbsp;&nbsp;中時新聞網"
+        },
+        {
+            "title": "輝達晶片管制爆漏洞！「解放軍搖籃」1招瞄準H200算力 恐加速武器開發",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CcW9FVWZ6aGxzcFpSNUhSU28tWklMX0N4QWZlMDI3M21GdXRiUzB3dS1icU5jUWlIdlRob2FvaFMxT2d2eEVYNDdOeGtwelVp0gFWQVVfeXFMTkd0cVVxbjg4SjR5TENNZWdocXBlSDNTcG9PTU15a3JzdHNraFl4Ty1lR1d6dVlDTXNCT2h5QzJvRU1SdFRRYXNDVzVkSVZzQ0xFNE5NNXc?oc=5",
+            "pub_date": "6/2/26",
+            "description": "輝達晶片管制爆漏洞！「解放軍搖籃」1招瞄準H200算力 恐加速武器開發&nbsp;&nbsp;UDN"
         }
     ],
     "B100": [
@@ -539,30 +539,30 @@
             "description": "NVIDIA B100/B200即將出貨 為何氣冷散熱仍為主流？&nbsp;&nbsp;DIGITIMES"
         },
         {
-            "title": "輝達恐取消B100大規模量產？外資 : 3家台廠將受益",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wMUE1U0NPaFk1UVh0N0laRUVVTHd6ZTJMc1BDWGltV1Y4TWZyNTN1OWNjOE1NVUl1U3pDX2NIU1VLVjlVZWhpMjdzLVN6ZzZqbVd5VVd1LUJFS19KbGFn0gFkQVVfeXFMTVNkaDE4UDZQTGxlcF9xOGlYbkpTbmVnM2FUVmlNRlpFWC1JZndaT2dYdnVfaWdJOGxqZWFsZzA2bUdMRzkydmVfci1MME9GYUp1UnFqNEJiTFA3WUd6TFBlUE5BLQ?oc=5",
-            "pub_date": "8/2/24",
-            "description": "輝達恐取消B100大規模量產？外資 : 3家台廠將受益&nbsp;&nbsp;自由財經"
+            "title": "英業達獲輝達B100專案 明年下半切入B200產品線",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DeTVGRHd2Q0EwTWE4VGMxSXdDM1NLaTMtX2ZoZHFVSmlTWWN5Qkg4MVcwQ1VQNHd6dW83aklhaWVOYm1SRlF2LWlaZ0NNa2JjUXBBUUZwWXNyZzF1Zmtz0gFkQVVfeXFMTXdYWmJ4OW5DZHUxaDctdUY2UWpXR2JOU1dtdDJqWV9TY3FxWGd4YzJhOFJpNVE1czdYaWNLbFVEeWlYUkJBUVUyMmhJYnAta0RSbTEwaExuRUFtUDc4Vk1GRVJuSA?oc=5",
+            "pub_date": "9/4/23",
+            "description": "英業達獲輝達B100專案 明年下半切入B200產品線&nbsp;&nbsp;自由財經"
         },
         {
-            "title": "黃仁勳拆招 輝達B100 提前明年Q2發表",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wV1gzR3Uyb2d5N3htMHlSN3N3OC0wNGJLYXk3V2dLWHdoSGo4WUxoSnZxc2UyWlpMWjBBRWhGdld1Z1VrNTlkekxUZzRCU0hrN1l3bHpqUWVpT0hVbExV?oc=5",
-            "pub_date": "10/17/23",
-            "description": "黃仁勳拆招 輝達B100 提前明年Q2發表&nbsp;&nbsp;工商時報"
+            "title": "COMPUTEX 2024：NVIDIA展示Blackwell B200與B100加速器參考設計，明顯感受不同TDP設計對散熱器要求的變化",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HaWU1THA2WDVsbDRJVHZNem1LVVQ2TDRtR05sd29CdlBMR3NHRHlpTkRqbVlNa0lyaGdnTENxNmRzaGpmMlVHMENwTHJKUQ?oc=5",
+            "pub_date": "6/3/24",
+            "description": "COMPUTEX 2024：NVIDIA展示Blackwell B200與B100加速器參考設計，明顯感受不同TDP設計對散熱器要求的變化&nbsp;&nbsp;Cool3c"
         }
     ],
     "GB200": [
-        {
-            "title": "大摩看好GB200/300 NVL72機櫃2月出貨量 按讚三台廠",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdzFjLUp4eDhUeEpCX01janBOMHNqWW9KNGVhT1U0dE5ySy00QXBQSDhVaXo4MHpYSTNrY2szUHdWbE1RbGxUdi12OXBiYndUWU1DSWxKZWJ6RVVtVVJZcHRySEhjN2w5QTdxeWI4TE0xMFZlRUJHX1VrOA?oc=5",
-            "pub_date": "3/19/26",
-            "description": "大摩看好GB200/300 NVL72機櫃2月出貨量 按讚三台廠&nbsp;&nbsp;財訊"
-        },
         {
             "title": "AI怪獸伺服器狂飆！GB200／GB300點火跌破眼鏡 大摩點名：「這8大台廠」營收一路飆天際",
             "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOeFVuVnJfeUhzQ1RmdXlleFByMzE0bEJZNzNxbkFfdUdGdGxVemY0Z254bldoU0JWVG1lVExobnN5enVUNDIwUVI5dnlLR2JTVklHZzNmZnIyVTdwV3ZWRUY3MlhVa1h1QTlvM0t4VS1LZWNpcnhXV3hLbkJfMTYzYXUydDBGdTZmOGpvRkpFRlhwZ3FVN1N6SGljVy1DTnBaX2RLeUotdk9raGRpdTdMNUdOZElKQWdLbGZzT2kzSXVKQllyYWF5bVJBQ1Q1R2VxcmtVSElDTmFNTGlWZ3hiV1FoNlZOQ2lob2MzR0RHOUxxQjhvWlU3cHdCczNGV0ZfVXFyQkRyelBwZkZzZUFTVHNBcHY5aFJTUWRaNlJqdkdkRVVGSzdaa0V6ejZxeXA1UkFVdGxMdHhiU2tTVWFWOEh3NnNrMEswcVo5T1NUNENRcWt2YXh6d1FIb0lBZ1h0bjNkbG9MdFZCZTdDR3c?oc=5",
             "pub_date": "11/13/25",
             "description": "AI怪獸伺服器狂飆！GB200／GB300點火跌破眼鏡 大摩點名：「這8大台廠」營收一路飆天際&nbsp;&nbsp;Yahoo股市"
+        },
+        {
+            "title": "大摩看好GB200/300 NVL72機櫃2月出貨量 按讚三台廠",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdzFjLUp4eDhUeEpCX01janBOMHNqWW9KNGVhT1U0dE5ySy00QXBQSDhVaXo4MHpYSTNrY2szUHdWbE1RbGxUdi12OXBiYndUWU1DSWxKZWJ6RVVtVVJZcHRySEhjN2w5QTdxeWI4TE0xMFZlRUJHX1VrOA?oc=5",
+            "pub_date": "3/19/26",
+            "description": "大摩看好GB200/300 NVL72機櫃2月出貨量 按讚三台廠&nbsp;&nbsp;財訊"
         },
         {
             "title": "輝達GB200功耗上看120kW \"電力國家隊\"來電",
@@ -571,16 +571,16 @@
             "description": "輝達GB200功耗上看120kW \"電力國家隊\"來電&nbsp;&nbsp;非凡新聞台"
         },
         {
-            "title": "鴻海旗下工業富聯GB200／300出貨順CPO交換機Q3拚量產- 兩岸",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByQ0J4Yk0xOW5kbVlIaVlaa2JOa1JxaEtvN3ZKVUFwM1o0ZlVVOTR5a0JqMWdoREhWaG54ZGhadE12UG1QVDVVRHJJYThnWU9lWGJQb2plZEZUT1p6bXBv?oc=5",
-            "pub_date": "4/21/26",
-            "description": "鴻海旗下工業富聯GB200／300出貨順CPO交換機Q3拚量產- 兩岸&nbsp;&nbsp;工商時報"
-        },
-        {
             "title": "黃仁勳野心不止GB200！輝達砸數十億美元 2028千顆GPU光子架構曝光",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MeEtKM01zWEkydGllWmlxdkhkMVRqcjdOUGhFclJTSlVjNFhkQktKNjBjWngwbFRsbzJibWZKbWVmQmo3NWtyM1BVcHpISFU?oc=5",
             "pub_date": "4/7/26",
             "description": "黃仁勳野心不止GB200！輝達砸數十億美元 2028千顆GPU光子架構曝光&nbsp;&nbsp;news.cnyes.com"
+        },
+        {
+            "title": "美系大行估 GB200／300 首季出貨續增，緯創成長居冠",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtX1d3VXBWMmdwMlZPM1pfYmtVZkt4cmhKQ3hZRlQyb2lpZklodl9kZUlfTmRjR1oxWEJCSXF1UHJRUzYydjJQMDlLTnpkSXQtVjFCX3hhY1JiM25ETFo0Z2w3dmpOVzhhNWZXSTBsZzk?oc=5",
+            "pub_date": "3/25/26",
+            "description": "美系大行估 GB200／300 首季出貨續增，緯創成長居冠&nbsp;&nbsp;TechNews 科技新報"
         }
     ]
 }
