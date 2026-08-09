@@ -1,16 +1,16 @@
-# 🧊 MGCooling AI 水冷每日情報 - 8/9/26
+# 🧊 MGCooling AI 水冷每日情報 - 8/10/26
 
 [![手動更新](https://img.shields.io/badge/按此手動更新-Run_Update-2ea44f?style=for-the-badge&logo=github)](https://github.com/odinchen2025/mgcooling-news-bot/actions/workflows/daily_scan.yml)
-<p align='right' style='color: #bfbfbf; font-size: 13px; margin-top: -20px;'>更新時間：2026/08/09 07:19</p>
+<p align='right' style='color: #bfbfbf; font-size: 13px; margin-top: -20px;'>更新時間：2026/08/10 07:21</p>
 
 ## 🔥 本日焦點 (Top Highlights)
 > 快速瀏覽產業頭條：
 
 1. **[MGCooling]** [兩度創業被外商收購，第三次他押注液冷：元鈦科技如何讓緯創甘願砸 4.9 億入股？](https://news.google.com/rss/articles/CBMiakFVX3lxTE9nOUlWU0I3a0x6dWJtLXdoN2pNcGprSDFSVWRsSlJIeXBUVFpGZTFIb0p5RjVidXhfVndnV2tTOC1feXpTdVFGM1R5MkZkM1pIMExmYzFPRURtd3RjWTZIZGZFdFRSLXZ4V1E?oc=5) <small>(1/5/26)</small>
 1. **[元鈦科技]** [元鈦科技股份有限公司](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGVMblZsenUtNVdZX2toZWktaHhBQ1RreE41ZkFNazg1VWUzaWdiaXI1dlRxQ0pCSGNZRzd2U0xBeTdlMjFkbUZiaGFVSmwzNG93MklCa2JhSHZGVmlPMVlFMFpNNzdwNDMtTFg4RmpkVFo3c3VTX290YWs1dFgtRHlyaU5LcEFLdlRVNElzY3N2dFRQNHc0?oc=5) <small>(7/31/26)</small>
-1. **[液冷]** [液冷才是未來! 直擊台達電實驗室賺AI散熱財｜ 科技](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZbXZXdE1RT3AzaHRvN005dmVmcGhxRlV3eko2RklqWDhmS3k5eWlaekt6VEdIVGhGRC12NnlIaHYyNUd0aUI0SWViZVR3YVVDWmdoMzdYMENpS19n?oc=5) <small>(8/8/26)</small>
+1. **[液冷]** [「我們用熱水散熱」輝達Rubin創45°C高溫液冷 冷卻用水近乎歸零](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50dmhTUndXM3A2OW0yalFXejZFR2ZzM1U4cWxtMUVTbldiNkhuZ0pVMDJNcEtkTGpvZmZqemhWZ25EdU1JTGppM3NtcE9iQVFSVy00ckpncnp5cE1IMkEw0gFkQVVfeXFMUGtmVGQxZEJ3b0hjLXIxWWNlSGtsT014QlA3N1J5dmpCVXlGOWNxbjV3bzdSbm9feHl1NFlKV05ZVjJuOW50ckdzYmdpdFZCSk5jVm1LSXhqY21ZemlsS1FOa2t2Qg?oc=5) <small>(8/9/26)</small>
 1. **[Liquid Cooling]** [20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星](https://news.google.com/rss/articles/CBMiZEFVX3lxTE44NXFiUnA2OEVtVHE3ZjhPTkdFRDdFYzU0bE9IN3hWSHg2emstWHhtR3huRUZxU0hrb202RG1pQnZsSnJwR3lhZG5EdmI1VmlpVkQ3RzhrdjgxbzlxYkJtQWhvUmU?oc=5) <small>(8/2/26)</small>
-1. **[CDU]** [雙鴻CDU放量起跑 2027年出貨挑戰2,000台](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yN2VDSDJyeFR1ZUtsdXVGVU5PckxsMFhOeVBfZWNySUdaZjlsWFFndHdCMFE3eXc5ZTJqNFFSam92SHNjYVMwVVpGVXZXR19jTjY3emxLcXFfVmtGeFdB?oc=5) <small>(6/2/26)</small>
+1. **[CDU]** [高瀾股份：目前已實現規模化商用的CDU產品功率覆蓋0.5MW-1.1MW](https://news.google.com/rss/articles/CBMiakFVX3lxTFBsRl9hMHBQQ3VNemxrQ1pUNHRkdENSOFB3Q2dGSUtNWXNBeU4wOTduOE43eTJWNlBvV0tFbVBadTBIdWZlRE1EczdqT3BrSkIzRjZZNWt4SEd6WS1LbkM1cFR6OXp5MjdkOWc?oc=5) <small>(7/30/26)</small>
 1. **[冷卻板]** [冷卻功耗從 500MW 降至 11MW，新冷板助資料中心突破能源瓶頸](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTR6alBNQVVQR2tnNmY5Zmxjd19CWEw3UlhwNUF6Nm5hbDZMd2ZjRExvc25Gd2RHcm0tM05FREM1V1N2M29JVXhVbFNiRG0yZV9aYTFqM05oMUJacHdBWXEyTGszTTBvNHdoWUp4VGs5eVBhODRYQ2dJUmNaT1FSOGlCLVVuYjZjaDM3Q2RzcXB3VW5CNVJLZGoybUZDUQ?oc=5) <small>(5/12/26)</small>
 1. **[Cold Plate]** [NVIDIA散熱擬導入「微通道液冷板」？ 台系兩大陣營競爭浮現](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcFk0X1JNdFFPRVl4RnJ6Rm9YLUo1TjZmeldGZ1VpUVFTeVhQNVdob3JMM0ppdlMtMzcwX1hMV1JRUFBXcTdpSUNjUlBSaFZQVlpySlN5SlBhV0p0YkFUWF9SeXBET19yM00xUV9IMzBYYzJsNnk4UEI4YU9TQmw2R3dHaVRBY3Q5TTEwbEdB?oc=5) <small>(10/21/25)</small>
 
@@ -26,8 +26,8 @@
 - <small style='color:gray;'>1/15/26</small> [元鈦科(7892) 今日股價與討論](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZclN5LTA4dWozSURnSHRMWGplUmJiQllxQnMtNGxoUUswanQzNkFkdk1RV0o5QmJnZlZQWEloSUdpZ0kwbjltSEJqVkI2anM?oc=5)
 
 ### 🔍 液冷
-- <small style='color:gray;'>8/8/26</small> [液冷才是未來! 直擊台達電實驗室賺AI散熱財｜ 科技](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZbXZXdE1RT3AzaHRvN005dmVmcGhxRlV3eko2RklqWDhmS3k5eWlaekt6VEdIVGhGRC12NnlIaHYyNUd0aUI0SWViZVR3YVVDWmdoMzdYMENpS19n?oc=5)
-- <small style='color:gray;'>8/7/26</small> [從Vera Rubin開始，液冷進入下階段！不只平台在升級，成長邏輯也開始改變 ｜ 個人理財 ｜ 理財](https://news.google.com/rss/articles/CBMiW0FVX3lxTE91V1FPTjdzTGxDTUtCVGYwb2VPYVJkcWMyNlBOZEZVNXhkU3JJdHpIWXlST1VYM0NlQ05yTzQ3eEp2UjFfbno4ZDRhU01uSDBnQnlBTGRpN1pVT2s?oc=5)
+- <small style='color:gray;'>8/9/26</small> [「我們用熱水散熱」輝達Rubin創45°C高溫液冷 冷卻用水近乎歸零](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50dmhTUndXM3A2OW0yalFXejZFR2ZzM1U4cWxtMUVTbldiNkhuZ0pVMDJNcEtkTGpvZmZqemhWZ25EdU1JTGppM3NtcE9iQVFSVy00ckpncnp5cE1IMkEw0gFkQVVfeXFMUGtmVGQxZEJ3b0hjLXIxWWNlSGtsT014QlA3N1J5dmpCVXlGOWNxbjV3bzdSbm9feHl1NFlKV05ZVjJuOW50ckdzYmdpdFZCSk5jVm1LSXhqY21ZemlsS1FOa2t2Qg?oc=5)
+- <small style='color:gray;'>8/7/26</small> [液冷才是未來! 直擊台達電實驗室賺AI散熱財 ｜ 科技](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZbXZXdE1RT3AzaHRvN005dmVmcGhxRlV3eko2RklqWDhmS3k5eWlaekt6VEdIVGhGRC12NnlIaHYyNUd0aUI0SWViZVR3YVVDWmdoMzdYMENpS19n?oc=5)
 - <small style='color:gray;'>7/24/26</small> [AI伺服器氣冷轉向液冷散熱，滲透率突破50%，奇鋐、雙鴻、台達電等6檔供應鏈受惠｜產業熱話｜豐雲學堂2026 年 08 月](https://news.google.com/rss/articles/CBMiowRBVV95cUxPT2ZYTEVMaWF3ZGhxRU1OSk4zNWU3cjdDMUJWTXRDb1dPbzNhR0JTYzVzcTNIOE9vT3Q2TGF3SXFfU3AtTndnOWFSUXhIYjI4VTJSWWhzY3hWWGhHaWN1ZEFZOGJPdW1EYV9iS2V0MDBzTUdnTWtBeGtGYnBXTmRfR0VvU0RpcURtOTB4cDhVSk1CbDZibHkybFRmelJtUWk2T05mRDd5TTR0YXJBREFnMkFHMU9NczlCZ3I5NW8wNU42clg0bF9CNjJCc3gyVXJJS0FMUGd5TzFxWV94TzJFT1NJRnJiT0o2VjdaSGpIU2s1OG1MNG9sYXdMOTR2WlFaamtxN3c4SmVDY2I5ZWNSdnVMT1drM2VaMFVQNEVvQk5pZFJfWW9GWEtZbUhWWGJ6Q1VMTEt4d3VXNFhaSnNlVDYwNVZORUNySGFMRFJxX3hxaHVOZ3dqQkI5bUk1dmtDUTVCM0lSOXNzUFRyNUlXMlV3cUxfci15NHVEMm9oT2RtV3BOZjhuVEpfTUZ5SlFwTW8zWEEyOHhMNFprV3JuRGV2Xy1jZ05VX09QY2ZBU296b0tLVDVrSjhCVmJDSVM5TEFuUlF0YU4yejlBQmZoaVc0d09sTEI1aTE1OG5UNlcwYWhCVG9wRFBKM1drVHdiNEdwM0gxbm16b0JGbWx4WXprRzh1R0xiQVduR0ZrV1R4V1BGUFVWaXdYLWFmSzBHUXBr?oc=5)
 
 ### 🔍 Liquid Cooling
@@ -36,9 +36,9 @@
 - <small style='color:gray;'>5/29/26</small> [AI機架功耗逼近200kW 嘉實多布局液冷基礎設施](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHItUTJJaUtJcU1uaW9VQXA2QkFEREFta1dtb0o4UTdxdktsOXM4NFpfZW40LW10VkhORkpKcW96eFFQYTNmVXN2TTlteGFMaWNTX082WlFhNEFyR1E2T0NPU3FIYjBvazE1QjF4dm5CN2ZsT1pEMmxfVm5pNmFrMDRwQmNKWFd4RXRSOTJrTTI4THo4dlVodDFhUTJtTlpaNndDWlFR?oc=5)
 
 ### 🔍 CDU
-- <small style='color:gray;'>6/2/26</small> [雙鴻CDU放量起跑 2027年出貨挑戰2,000台](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yN2VDSDJyeFR1ZUtsdXVGVU5PckxsMFhOeVBfZWNySUdaZjlsWFFndHdCMFE3eXc5ZTJqNFFSam92SHNjYVMwVVpGVXZXR19jTjY3emxLcXFfVmtGeFdB?oc=5)
 - <small style='color:gray;'>7/30/26</small> [高瀾股份：目前已實現規模化商用的CDU產品功率覆蓋0.5MW-1.1MW](https://news.google.com/rss/articles/CBMiakFVX3lxTFBsRl9hMHBQQ3VNemxrQ1pUNHRkdENSOFB3Q2dGSUtNWXNBeU4wOTduOE43eTJWNlBvV0tFbVBadTBIdWZlRE1EczdqT3BrSkIzRjZZNWt4SEd6WS1LbkM1cFR6OXp5MjdkOWc?oc=5)
-- <small style='color:gray;'>6/24/26</small> [施耐德電機旗下 Motivair 發表新型 CDU 可擴展至 10MW 以上 全面支援新世代 AI 工廠](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCRlh6c2JDcEt3YlBQdWNKOWJCVG9UVC1Yemx0OFQwTmZka1NTUWhGekJmRnhBdFJFRVp5Uzl3eHp1OVdrbnFBZk1vWQ?oc=5)
+- <small style='color:gray;'>7/21/26</small> [AI機櫃功率推升CDU液冷泵，奇鋐 (3017) 量價齊升還缺什麼？-周哲翰](https://news.google.com/rss/articles/CBMigwFBVV95cUxOa3dBcThJV0F3MFZtcWUzZlBGOHRtWDYyaFBqWHpUY19rcUdhUmlPcXFMdmkwT0RTRTNkMGgwbHpkT3E0TUFpMzZJMTJaekVUR0VQclZHYVNPb0xPWll5cmxxY1N4THRGZFp5VnFuM3AwSmVTMVNJQTJ6WngyMnZmdUU4QQ?oc=5)
+- <small style='color:gray;'>7/19/26</small> [德國基民盟政治家施潘因美國代孕事件辭職](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQQTdVTWc3c0M5bktKUFN3NjRzY0Q4MUVtVjJjTmZxOGxKMExfSG9tajZwbnQ5al9aOEhYZERubFlOLWh0WFhJbkMzdklxeGJfaXA2bThQTThrR19kOW9uUzl1WmJLeWV5YXJjdERhRXRwbjZXZS03UHByVHRHcnBaQUFieHRmN0J0WFpnaGtTTXMxVW91SUc0RS1xdEpzMHpoQnpWYmd5TlZLaXBuVUVxQUhfczkyUTU0NGNiY1lVa3FHLTR1eGZXQ1NraDZjd3MtaW1mMHNqdmRzSENzVjQzdVR4XzRXMF9BR1R3SVNxUEFWUjJrSGpObG5DTGhmRnFoLUpDei1DdUNkVHFlUG8wa0Y2ZDR6QkN5NjRyMWtvZXJZM3g1dGdHZmI1Zi13SzNXM0I3WDBZUFpFczB3Uk1fNG1KVQ?oc=5)
 
 ### 🔍 冷卻板
 - <small style='color:gray;'>5/12/26</small> [冷卻功耗從 500MW 降至 11MW，新冷板助資料中心突破能源瓶頸](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTR6alBNQVVQR2tnNmY5Zmxjd19CWEw3UlhwNUF6Nm5hbDZMd2ZjRExvc25Gd2RHcm0tM05FREM1V1N2M29JVXhVbFNiRG0yZV9aYTFqM05oMUJacHdBWXEyTGszTTBvNHdoWUp4VGs5eVBhODRYQ2dJUmNaT1FSOGlCLVVuYjZjaDM3Q2RzcXB3VW5CNVJLZGoybUZDUQ?oc=5)
@@ -51,14 +51,14 @@
 - <small style='color:gray;'>5/12/26</small> [冷卻功耗從 500MW 降至 11MW，新冷板助資料中心突破能源瓶頸](https://news.google.com/rss/articles/CBMingFBVV95cUxOMTR6alBNQVVQR2tnNmY5Zmxjd19CWEw3UlhwNUF6Nm5hbDZMd2ZjRExvc25Gd2RHcm0tM05FREM1V1N2M29JVXhVbFNiRG0yZV9aYTFqM05oMUJacHdBWXEyTGszTTBvNHdoWUp4VGs5eVBhODRYQ2dJUmNaT1FSOGlCLVVuYjZjaDM3Q2RzcXB3VW5CNVJLZGoybUZDUQ?oc=5)
 
 ### 🔍 Data Center
-- <small style='color:gray;'>8/8/26</small> [AI熱潮帶動資料中心高薪職缺湧現](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sVFVkZnJtX2Y0WXBWMTRFTEtETnRHYXN3VXRuazh2YndITEw0blA3OEY1RlU5WWRkdE1hbnJIeTd2LXlfOGEtTFNUOWp3Qmd2T3lGa2N3?oc=5)
 - <small style='color:gray;'>8/6/26</small> [Uptime調查：AI重新定義資料中心永續，能源、散熱與供電成新挑戰](https://news.google.com/rss/articles/CBMiTkFVX3lxTE05bkVRbEFUcjhHdTBBaVFlQnpwZWFFNG1QU3VVYl9QM21uenF4aDRMS183TGJMcDdLa1dYQ2VPSElXREoyUGFfanRUa3hjZw?oc=5)
-- <small style='color:gray;'>8/8/26</small> [AI資料中心發展重心延伸至光互連 矽光子技術受關注](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1JxQVJzMjR3Ymxma1FacHRENTliZkpWdVN1SmU3Tk15akd2OXFYQXFkWEJJdUtwZmgwc0dVa0NCWDd0QzhIblZ2TjdKVmdTU3lUSEFQa0g2MXdCTmk0MUVOSEpMYklzUEtYMEJRVk96b0trOUJuMFFLTnQ3dTFDRHVXZ2Vqby16LUpqV3hsS2R6U2x6VGNDaFp0UjRBM1F6S010Q0Z0bXl2UQ?oc=5)
+- <small style='color:gray;'>8/8/26</small> [AI熱潮帶動資料中心高薪職缺湧現](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sVFVkZnJtX2Y0WXBWMTRFTEtETnRHYXN3VXRuazh2YndITEw0blA3OEY1RlU5WWRkdE1hbnJIeTd2LXlfOGEtTFNUOWp3Qmd2T3lGa2N3?oc=5)
+- <small style='color:gray;'>8/9/26</small> [「我們用熱水散熱」輝達Rubin創45°C高溫液冷 冷卻用水近乎歸零](https://news.google.com/rss/articles/CBMiX0FVX3lxTE50dmhTUndXM3A2OW0yalFXejZFR2ZzM1U4cWxtMUVTbldiNkhuZ0pVMDJNcEtkTGpvZmZqemhWZ25EdU1JTGppM3NtcE9iQVFSVy00ckpncnp5cE1IMkEw0gFkQVVfeXFMUGtmVGQxZEJ3b0hjLXIxWWNlSGtsT014QlA3N1J5dmpCVXlGOWNxbjV3bzdSbm9feHl1NFlKV05ZVjJuOW50ckdzYmdpdFZCSk5jVm1LSXhqY21ZemlsS1FOa2t2Qg?oc=5)
 
 ### 🔍 資料中心
+- <small style='color:gray;'>8/9/26</small> [AI投資衝太快了！資料中心占GDP恐飆3.1% 阿波羅警告：投資反轉恐重演「次貸式衝擊」](https://news.google.com/rss/articles/CBMilgNBVV95cUxPTzdIRGpEUThVSHVKYmx5WUJnTXRST1Z0bnVYZnNiN1dweEhkWGlqSHZfWlowUTBFMWItNFJzUHVyV0IydHc2NHg4c3hFWmpfTjhEOExDR1h3VnVZaXdNeFFrVXhhTkFZT3NiU0dZR3h2VlhIUHJ6RnVqN0s4YXlpcWtlOEhKY0RhYThNZHRmMjZmQTFEU1RJbk9tTm5NOVRnRVd6UHEtVUY0UG85c3RqX2k3dXpBbXY4c1pfVkppU0twNHIzNjhoMnFBUVlfZ3FJNTJaVTVYMDhLRHBDOUs2R3FmYVdYOHhHMnplZ3MwdEt6NU5Qa1czWnM4aG5TT3NPUWJ3bjdrenNzdmxMbU1lNlJSSXg4VTh2SlhOQUh2NnRKRXlydzkxeUN3RWl2MjlHNUtQVFloYWJfV09teHhvYXU2OVRtT2R6VXhtcXlEMEVLS1JkdTB0dHIxZGkwSXhlelExVl9yeTlhS3VWMUVPSmE2MUZXRjA0UkxpQlplQTF6UHNwcTRESHpXbnFFRzluak1sUlhB?oc=5)
+- <small style='color:gray;'>8/9/26</small> [Google印度150億美元AI資料中心 水資源、棲地爭議引爆抗議潮](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjVFV2NieUp3UzIxY3QxVGFoVUhuSmZvaG9TcVZhYmVCQXVMLVVfTkVBQ1puSlVDY2dNalBsVndDSDFkYTU4b1ROMnFWRUVkREtRSlljQXhjUWxYcTY2Q3hWU2lsTUZLRGJzX1piYnhtQ2ZuNkFfbHUxaElVQ04ycWRhekNSTEFickNZWWV3?oc=5)
 - <small style='color:gray;'>8/8/26</small> [監管升級！美擬管控陸企海外資料中心 大馬恐被盯上](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oY2c0VTVqcnR5RlAxT084ZC1aWUJjVjVuRVctbm9PRGl0RlpyQU9UaEVYLUpwSHI2REkxWWk1czBkQm9uMkItZ3N4OUR3SW1E0gFWQVVfeXFMTjlCd0JXLVJEUXdRVHJxSkQwQ1RYcy1vOXNMUENBU3pPVVBFMEVYLVRTLWpIbWFncnVleHpxdFJMLTBXb3lDZnB5X184TlB1andzOU1ienc?oc=5)
-- <small style='color:gray;'>8/8/26</small> [便宜手機要1.5萬的時代來臨，資料中心吃走全球七成記憶體](https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ01qWUEzNlA5M3Jod003d3V1VnIySmRza2g4M0FRWlRoZnA4UmllWkJFNUJ3eXVKbE5KV0loR3N5YVoxc0RiTXplWHU4eF80bm1WbExlQXFEM2pES0Fydmktc1RqQXBxc3ZrRHZrdEtrVUxKNWhUN0lsalItZXhHenFKZzBTaXBQcUhHeDIyU2N2NHZLX3VnbWJFUk5kOWs?oc=5)
-- <small style='color:gray;'>8/7/26</small> [緯創：興建AI資料中心電力是關鍵- 日報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RNGQyVWJDaUJ0RHAzbGN3cHBwZnlNQ25iNGY3cWFUUXNRbWxoZEFEVWRwUlgzYmhEMHR4dW5iOC1GdW9lTHcyZlJyYmJJZzRGUzlBTmtwSExQUzM3VmVj?oc=5)
 
 ### 🔍 PUE
 - <small style='color:gray;'>11/4/25</small> [5MW以上新設資料中心須達節能門檻 還要審能源說明書](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvYXhhRVo0SmdEU3JUdkpDNjkxeW9xOGtXZHlTT1ZsUU1JZFVhSkdXaWlEblhzNnFBcHJjbkJqbkFUUXVqNlA2RA?oc=5)
@@ -66,19 +66,19 @@
 - <small style='color:gray;'>11/4/25</small> [經部納管逾 5MW 資料中心用電 未來將強制提升 PUE](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1d0JqcEVhR1labTh3d0FXb1BwUEdaelJaa0cxMTRycTd3NW95N1M2QmdyaXI3VmxuME1OT3FoZnMyNWhLdklvQlNSV3VEQmF3bHhkNTZmT2lrUdIBX0FVX3lxTFBfRTFMdUxOaFBKUDdYb3U4b3N6VjZLZWI2dHdxdExWcWpBcUw5QV85aU5oR0hQTlpVU0tvLUNzaE5iVmNyYnNqZU1pZmwwLVR5bTNNSFpFUjNXX0lZUS1z?oc=5)
 
 ### 🔍 AWS
+- <small style='color:gray;'>8/9/26</small> [三大 CSP 在地化要件齊全 AWS、Azure與 GCP 決戰台灣三大規管市場 ｜ 產業熱點 ｜ 產業](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfUjhSTXJlZktzUWtBR1hZQnNLQ1ZpTnlBelRDVDBPYlh4bmJFQWt2M2R3RUlISGQ5bXFEem1fbDRCSGhSM0dsVkZHX09UcjRJS2YtUDlrcmU5QQ?oc=5)
+- <small style='color:gray;'>8/9/26</small> [AWS執行長：亞馬遜自研Trainium晶片可搭配輝達架構，不會當成產品出售](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VWFo3Q19CRmJMX3lLV0NwTnhNR3Nwc0c1dHM3Y2NnSmNGVUJ4SXRRODlnQ1BvcGlSRHRhZ1pncTE5bUJYQkhiS2IyYUZoamxJNFVDZkV3dFRrUFY2LWo2RjduZw?oc=5)
 - <small style='color:gray;'>8/8/26</small> [CPU恐成雲端業下一個瓶頸！亞馬遜AWS出現「CPU短缺」](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwX1dnZHFaS0ktTUU1NzhUYTh4cHh5a2lYNkRKbmd6bW9OUGJfSkwzVWFCdmhSV1pHMEtyV0t4Y3V3UEZjWVg3MVBFWURQZjQ?oc=5)
-- <small style='color:gray;'>8/8/26</small> [1815 富喬- AWS 看漲股- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NQkNtTG13WVJyQXFtYVVobl9LNEZETUxXMTJNY3B3R0d2SWloNGd0Y254TGxSdU9YQWI2TVhrTDFnbFl0RWNRbkU3aWh1Mll6V2ZnYnVaZFc?oc=5)
-- <small style='color:gray;'>8/4/26</small> [亞馬遜財報炸裂！AWS、AI助股價狂飆21% 貝佐斯火速賣股套現40億美元](https://news.google.com/rss/articles/CBMiiwNBVV95cUxOdDE0Q2Z3c3ZsRzhjb0ZwaGpkSW54NnlKS0hDZjZTTmdkMlJWbEhTOUxxMExCSkFKY3p2Z0tPVmRCcFdCeEMyRmZubklmTXVPVnh5SkVfVWlaVFhybDRlelNtaTlxSld0WTZSSE9Jb24tRTdyWnMyMXp0d0l4dEJiVEVrcDJGaTloeU5xZlJVd0p4OTFzald1ZEt0dmoxMDRSWG9idmFLU1lhOTl3TC1zakRyLThvX1pwVzZBM25MQUNOR2RmbjBJdUR6ZVZuVGpkb2FFZDN3ZnRVbW9ERUQzZzRRMndXcHpsakVQUGl0MExIQ3JFOG1RZHRTSGtCREZRR1lucXFWSTZUNWJkWVJmbmNFX1JyR3RyM2xyc2FRR2xBcUlkSk05ZnJxQXZmaFU3Qm9ob21Qa1hMSE93TE42Vy1mLWx5V0RtVGI0RUU1ZERvS1cyMl9TaURueThlazNVTHBHSW5BbXpjWWVHR19Fd2sxQUc5VzQ1NUFRVFhrd2YyVHQ1QlBoUzBMOA?oc=5)
 
 ### 🔍 Google Cloud
+- <small style='color:gray;'>8/9/26</small> [台灣網路威脅全球第5 Google Cloud：半導體、金融為箭靶](https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWRPejVnNUpTNWJtUGtuLXgxMFlDTUdrT0dfdklhOVl3V1RQcE53TG9UWUtqOEUyUHE2b3B5SzJ3SWl6R3ZHTnJfN1l6cHJKTXdrOFNwXy1hMW9BLUhBS1dyNDBEcjRmYm9tcVlEbkhYM0pMYlBvN3BxNlJubzF4R0dtYXdaZG1lcmVFbG11VlJzRGN4dGpEdg?oc=5)
 - <small style='color:gray;'>8/7/26</small> [Google Cloud 在台啟用資安營運平台，協助組織強化數位主權](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTVmdlZoNG15dTRCdmZOU1RIbUxxQnk2VHp3dkJwc2lWazVuX2c5bVk5eTdWUk9kR1A5Z2RPWGFUZEJnTURRblNuOFZENUlkdkNvdDhmSGt0Z2N1RTRuZDdBR1pPZEdyS3ktVWY1MUVjNnZ3YnQtZ0J6djlqaWJpbXpNbWptcHR1ZG42R01FRXR1RC13?oc=5)
-- <small style='color:gray;'>8/7/26</small> [Google Cloud資安營運平台在台啟用 AI代理上陣、30分鐘分析縮至1分鐘](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xV2haNVdkSUgwNklWZGs3TnhhSTBwZVhBbUNpZ1doWmhRWGhYME56eUhpT0V3WncwdWRGa0thS2ZPQ3hSLUJ4WnlTQy1ZWVAyX2RRMzZBWGdPYU1LSlk4?oc=5)
-- <small style='color:gray;'>8/7/26</small> [Google Cloud：AI攻防戰升溫，企業須用AI對抗AI](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHhBekN0ZExzYVJ0UVZVSzNDdWxDcWFHcEdRQjdPUnl3bi1VVlBNOEk0aXpkRmgtUTlmTzdnbVZ0SWktNW40SVQwcGxTUmt2dlV3b251SG9XM1M1Wm9nWDBoLUpwTWk0YVFCM1NVQzVnUlVhM0l4eDlzd2FBV196VDM0Y01OdWdqVXB6d1djSjlOdw?oc=5)
+- <small style='color:gray;'>8/9/26</small> [三大 CSP 在地化要件齊全 AWS、Azure與 GCP 決戰台灣三大規管市場 ｜ 產業熱點 ｜ 產業](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfUjhSTXJlZktzUWtBR1hZQnNLQ1ZpTnlBelRDVDBPYlh4bmJFQWt2M2R3RUlISGQ5bXFEem1fbDRCSGhSM0dsVkZHX09UcjRJS2YtUDlrcmU5QQ?oc=5)
 
 ### 🔍 Meta
 - <small style='color:gray;'>8/8/26</small> [吳奕軍專欄：中國為何仍是Meta的大金主？](https://news.google.com/rss/articles/CBMijgJBVV95cUxNWVM0SmI3WkhEQzVSc2VOUFBqa1BsUzd5OUhBUS1rR0dXSWcwXzlacjBScGZEaTg2TDBCcDI2RHRfaXZQejNlRm1IMG95MVZXYWRPYUktZU5ETUEyTEJEcl9oR2ZQRXhHZXF3bTE1eno4bHViQmtLdXk1QlVHZ3RJckZCdGpmaDR0NG5TRTRPQ0doWHJ6TWJWSF9hZkFycGpGdldMMlNPX1U3TjJVNUcxLWs1ZDQ0Y0hCLWppZTd6OW9yeEk0bTFWTVdRZEtDQXVuNWo5cnFwUnlTdlNkemtBa0pNbEwwZElaVy1abFJDMWNVMVVCakNrcjhvOXowblJnMzN3aGwyeHE5UHRpOHc?oc=5)
+- <small style='color:gray;'>8/8/26</small> [Meta 想做自己的 Google！單季 91 億次爬蟲把開發者 VPS 爬到報警](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjF5MnBVdk1VWmx2NHZLdUV0WXU4cFlYSkM5alRyRUFwM3NfZVloN1hRQldrMVlLX3NDeXlPT0s5d3VsX2ktOVU1RmFFQUc0elBSOTZ3bU42Y3lqdjh2QjE0emRFQ0tiLUxVLS1hN09EeDhJU0ppeWR6YnlxSkJ1bHFQMXc4VHdXWDVObE9sWVljT25USEVpdHp3?oc=5)
 - <small style='color:gray;'>8/8/26</small> [SpaceX解禁後兩日暴漲23%！市值超車Meta　逼近收復發行價](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HV3F5ZTdwS3lpVXU3VXFWX2pSN2RtMkVfTWpzRk5LdDhHOFNYWmdDYlhndVZVOGxfOW9JWU1odDRoV3lHZ0tWeG80RkU1NlAwUHfSAVBBVV95cUxQZDJNQ0tlTDFYZkV3Mko5WHdGUlMxeElmQ2JaSjNGQjAxLTFhVlVnV3pDN2ZOR1V4U2hVdFZvREVrTEt1U2dnMlJpaWM4aWNTRQ?oc=5)
-- <small style='color:gray;'>8/7/26</small> [Meta被認定公害！法官斥傷害兒童不限於平台 再遭重罰逾182億創紀錄](https://news.google.com/rss/articles/CBMiUEFVX3lxTE43dnE5RmNHV3VoNjVLb1lPdTR2UUtVMTRIVDFSTHFMbEFJLVRjSWpabXYycG55Qk1icmJpVURfWmJzVkpfWHMyTGRJVUI3cmFi0gFWQVVfeXFMT3BrYWVmZVNjSXZfVGt5QlJkemRsVHBTb21FM0hYMEgtQWNyVVoxenBxd0Y5aTdlbmxUaE9QM1g0Yy1XRm81MVBMbjN1dkFkMjdNZUF1SFE?oc=5)
 
 ### 🔍 Wistron 緯創
 - <small style='color:gray;'>8/4/26</small> [緯創法說1》上半年每股賺7.78元 董座林憲銘：現增2.5億股發GDR](https://news.google.com/rss/articles/CBMi_AJBVV95cUxOcDdQUTFaMmxfQThIeWRVVzhVUEo3dXZBdUM2X0hNcHFaZ1hRLWJEN19VRzNLa0N5NUd0dzRPcWpPdVRlZE5iaC0tSllZV2VsMlZEZmVZSHE1X1FPWkVNUjY0QzM5RHVpOGVITGpnb29PTU91blJUdEJyb3FFQ3RnV0FXZF9ZVHlHVjNhMWdENnd4M25yNGtkQ3NiN3J4NDdiQ1JXY1lyeVMySUpBSGp1U0dyaWFESHZBeEtrRnRsVEg4T1ljYmZ4bU1RYXgtTmFhRmFsbi1Uck5QZjZwMzJaeHQtTFc0b3pWVDEwUG9CcnJxUmVOS0tGY1Zpcm1SV093eGVCVHlSMFpxYV9wUDJHb0RQTzZkcW1Dd0tmY0lNVDNWUE52OGh6dzdKRFlDQzBOMW5kN3dwYTF0S2lpdGxFaXMydC0tVDRPb2FsRUVMcWFETW9IdXk4bjIzbUt2WC1qTGQtNC1ZUFBtZFlTeUdYZVowY3RETVcwbTFURw?oc=5)
@@ -86,19 +86,19 @@
 - <small style='color:gray;'>8/6/26</small> [【緯創股利二度延發 金管會：最嚴重回收股務自辦】 （圖／翻攝自官網）](https://news.google.com/rss/articles/CBMiogNBVV95cUxNMG9LTFZCYnl5RjVSX09vM2RCRllDN2xoc3l4amdMekQ1bmtyN21BRm84bm5VMmF3eDZkbHlLOHZzbFZJeDdnNUViUGRrbnAwTkV3MjUxRko5a2hoZkdST0FfMUxFRU95V2R3VlhFOU5YTlk2WHdtRlhtdmE1cWNhaDFzOVFfT0hNMkNTZ2JNNEptUWRWQWZnTkhUWUczRHBPazBPekRFX2ltTS1GcjgxdU1FWUZUeGVKOTFkMzVJLW5kYWk3YmhLSFFkTU1GUjZXaERkbkNqMEhSNTZ5ZE1Zc0Y2NkRSaVh5N24tOEcweThGY05FLVRaOWc3N3hpa2EzdE1Za2VrdTJacTA0d1BIdGdHeEpfdzlUQklfU3A4cndQUGdHTEZOOFNCbmY1RzB1SERzaV9xaVQ4aVcwQ3pPbXZqdjBnMTJXRnk4OG91TTBMXzIwbUY3Q2gwZU1TNkg4TGp5RXMxbjNKWUhjOVZXZ0ZCM0VQQTdkVnpCc0dydFYzZTlKQmlDU0xOT0ktY3ZGMmx5a0YtaFZ3UjR6T0NFbzF3?oc=5)
 
 ### 🔍 Wiwynn 緯穎
-- <small style='color:gray;'>8/3/26</small> [緯穎AI伺服器出貨升溫，馬來西亞產能同步擴建](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTUtbWtqd3dSbWNPMl9XWGJxZGpqam4xTVRRb2VWU1RrX3dldllfc3JfQ1FkWUVkdXNQVGRJZFZUSHVYRWRJY255MGFfVmdVbGozbGdET2M4NlBjUjJFWm85UTBGVGdLbnlZSjREbHVZc1FiRXJ5VnFKOGoxaHhhSXRFaWE5STJ0eUJKVTQ1OEQ4Zw?oc=5)
 - <small style='color:gray;'>8/7/26</small> [緯穎7月營收1,176.86 億元](https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFJKdzlNNS1RN1JzQnNKcllkS25Vdi03VWpMNGZlak9sdF9ta1lhaklRWGJfb05BT05tNjd4UTJIeVdhZXE3S0xFSlA5dncydmJVcDd6SkdEdDJxYnowREtQSlZCV2ZyV3lWSlBXY0hoUkhPYk44TE80bHIzN2I3Qw?oc=5)
+- <small style='color:gray;'>8/3/26</small> [緯穎AI伺服器出貨升溫，馬來西亞產能同步擴建](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZTUtbWtqd3dSbWNPMl9XWGJxZGpqam4xTVRRb2VWU1RrX3dldllfc3JfQ1FkWUVkdXNQVGRJZFZUSHVYRWRJY255MGFfVmdVbGozbGdET2M4NlBjUjJFWm85UTBGVGdLbnlZSjREbHVZc1FiRXJ5VnFKOGoxaHhhSXRFaWE5STJ0eUJKVTQ1OEQ4Zw?oc=5)
 - <small style='color:gray;'>5/4/26</small> [創意電子攜手緯穎科技推動次世代超大規模 AI 晶片到系統級基礎架構](https://news.google.com/rss/articles/CBMiW0FVX3lxTE16Rk9lR05tSjZXMEp3dGlMVC1YSllyTFNlQkl0b1RHbVlseHNxZFR2T1k4dVpjY2VabGVvcDNxM1V5bmZ4NjJtMzVMR0RoTk9JMWE3NF9nUGQzYkU?oc=5)
 
 ### 🔍 NVIDIA H100
 - <small style='color:gray;'>8/4/26</small> [NVIDIA H100、B200租金回升 AI模型發展有望延長GPU折舊](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2l2UGNGSmdPZE5QVlFCeUFUUFhYZEJYX0pMNmxodThSYmtqb3I5MmlqYl9nNW9hRFdQbTNvTU45SWwwUmFrZnlVT0NwZGU0dDlsMWhkQXNuMmpoa1hpc290cTRhdDhadHJpWXFOTlZXZkdXalF1RnZ6RGlUS0VrUkY5cnNCOVl5dUMySjhR?oc=5)
 - <small style='color:gray;'>8/4/26</small> [AI 算力需求強勁，輝達 A100 至 B200 租賃價格全面走高](https://news.google.com/rss/articles/CBMirAFBVV95cUxNT29DS2stTzhQUHpNdFIyekNRMU9YN3ZIX2hNYkpwTXZLY0dVUGljNGtyUTBjdlRqdmJHNHhKVVl6ZC1iM3lObGNpOWFqVTgzWWJva2NwSThrakhtM0JreDJjRDY2bkF4OExfSG9leWhoTF9CZ2tfRlFiOWFuczVOWnJtbW9MRkpIdXFSZGhjNnJyZ2tDU0R0ZnYtSWh2OG45X0w4VXBsYmRzZ0p5?oc=5)
-- <small style='color:gray;'>11/5/25</small> [市場報導： NVIDIA H100叩響軌道運算序鐘，Starcloud雄心打造太空數據中心](https://news.google.com/rss/articles/CBMiakFVX3lxTE9IdC1hNnJ0SzJfR3JzSkhxUzFWSmNoZHB2U0VvY3FLN3RabDlPcGxWMzJBdlJOSFlhWkxxMkx1VUJzUHZCNl94OXo5THFKZW5iVG1EZUhDb3lyREp4REYyNkZHemRxR0pRaUE?oc=5)
+- <small style='color:gray;'>7/27/26</small> [輝達晶片要上月球 台廠工業電腦族群有望受惠 ｜ 產業熱點 ｜ 產業](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZ1VaT2o4MXh5UnFSNGthMldEek42VWt2dzR4V1R6ekF3RjRZV08zOVFubG16Qng2MDg2V0pGUWVtUmtYM1JCcXNIR0x1bW9yN3dHa3N6bjgtQQ?oc=5)
 
 ### 🔍 H200
+- <small style='color:gray;'>8/8/26</small> [美解禁H200！美股3大指數齊創新高　道瓊首破5萬點、台積電ADR飆4.4%](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qV3ZhNHVzTVhLZ2pnQm1XUTN2SFB4T3hhSy1HakJVc3NyTWtRSWh3bXc4LXVZWWRMbk9SOWt0SXlnemxpZU9aYtIBTEFVX3lxTE5ROUlpLXBuNVB6V2NnQ0xiRzFLaDJvVDRPQXVhX0NKTDBEWUNacjl3a09XNHZVUFd2eW1kTDFXNk1mZXo1RkkwM05TMFQ?oc=5)
 - <small style='color:gray;'>8/5/26</small> [雙軌並行同享精準自然音色 Hegel 推出新合併擴音機 H200 及 A200](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkTm5tSDRib1JaaEtFaHRiazdLd19NT2RlYS1faTVubDQ4TE45U2NaX0RKUkNObTZ4OWZJTU95UHZUd1RhNEhQMC10MlNrb1lyajFpRVlSejFyN1phUGc?oc=5)
 - <small style='color:gray;'>7/14/26</small> [AI晶片禁令鬆了？美官員證實輝達H200少量出口中國 中國市場有望迎曙光](https://news.google.com/rss/articles/CBMitgNBVV95cUxOMzZjMXg3dUpFc3Z2RTFlU1F5ZVBxMWhfRzg3Zm5lVTFEWl82NWp0S3VhMFZocWJkMmdNb3ZZLThCdHFwQ3U1UWVJVXhCb29ZbHB4UnlYeHlWT25HSDMwSnZYTUM2UjVIV0x5dmxpUEJzU1N1aUZ1VkdPMl9EeGNBY0g1WWZNS3FXdmJJUEpoY0FUcmhqcDRTS3RLZHZFLUNtTkh2OC13M0lhRk5uYWxfZkg2RE1JVlpaUGc5Q05lelBkSlM4Vmd0SnlybVItYVhJQUdwN1k5TjlRQ09PNlJ4RTltRXY5VVNLdGRNSDhCQkcxc1hzUkJhY3hGNUd0YUg5WC1pT3hmZXZWdG9fVnFGR19xU1JGYzJFcUlJQ0ZxbWpYeGlWLUJLVWtfVm85OUpTYm5jeEV4UzBCSWZUYk80SVJsV21MYnEycDJXNHJxYWVQQ3IyNk1PQ1YyODZwV1hRT2NoeFhJT2Nrbkhyb0IxdUtZUmw1Y2hLTWhTb3BpUmU1UVpxV3pGZ1l3N2VsejUzbG42UWlJd2p1SjRGV2taeWQ1WjZLYmo3c2JheTZ5b1dWUVFKSHc?oc=5)
-- <small style='color:gray;'>5/15/26</small> [美國傳允許10家中國公司採買Nvidia H200晶片，1家最多7.5萬顆](https://news.google.com/rss/articles/CBMiTkFVX3lxTE96dnRyalhEUGpsczVtR0ZxVGZDeFVNY19yVUp6RUx1bmZzdEt4OVJJTEtCTDN3VVE1NXdkaUxtbXd2NFkzT0doSV9nVlotUQ?oc=5)
 
 ### 🔍 B100
 - <small style='color:gray;'>3/28/24</small> [一次看懂輝達AI晶片B100、B200、GB200、DGX200大解析](https://news.google.com/rss/articles/CBMiT0FVX3lxTE12ZmwyUEZydDlybU5sMFkzTkV3V3l4Z0JkU01RLXJpSjBKc0pXUWF0ODJONVgyQ21EYXZrVjg2MVFoa0R5b0NKNlBRMVd5U1k?oc=5)
@@ -111,4 +111,4 @@
 - <small style='color:gray;'>7/23/26</small> [NVIDIA公布Vera Rubin效能數據，同電力下效能較GB200 NVL72飆升10倍](https://news.google.com/rss/articles/CBMiZkFVX3lxTE93T09iOHFVT3NjZzFJN1NpUGdFcFZDeXR1OVhtMWpab0UwbTVaNkI1R2hCdFRHVk9rR0ZETi12QTQtQ2FxWkU0bFZFNmFaRWllMjYtWk1McHFzVFdvWmd6LTVOM2ZyUQ?oc=5)
 
 ---
-*Report generated at 2026-08-09 07:19:23 (Taipei Time)*
+*Report generated at 2026-08-10 07:21:23 (Taipei Time)*
